@@ -1,0 +1,64 @@
+{
+    "name": "corifeus",
+    "version": "1.0.1245-297",
+    "corifeus": {
+        "icon": "fa fa-superpowers",
+        "inception": "12/25/2016",
+        "time": "5/8/2017, 9:08:12 AM",
+        "time-stamp": 1494227292502,
+        "code": "Venture",
+        "menu": [
+            {
+                "name": "menu-corifeus-code-style",
+                "link": "artifacts/readme/code-style.html"
+            },
+            {
+                "name": "menu-corifeus-architecture",
+                "link": "artifacts/readme/arthictecture/overview.html"
+            },
+            {
+                "name": "menu-corifeus-patterns",
+                "link": "artifacts/readme/patterns.html"
+            },
+            {
+                "name": "menu-corifeus-more-origin",
+                "link": "https://en.wikipedia.org/wiki/Coryphaeus"
+            }
+        ]
+    },
+    "description": "Corifeus One - Venture",
+    "main": "src/index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "grunt",
+        "coverage": "istanbul cover node_modules/mocha/bin/_mocha --report clover -- -R spec test/mocha/**/*.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/patrikx3/corifeus.git"
+    },
+    "keywords": [
+        "corifeus",
+        "one",
+        "platform"
+    ],
+    "author": "Patrik Laszlo <alabard@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/patrikx3/corifeus/issues"
+    },
+    "homepage": "https://pages.corifeus.tk/corifeus",
+    "devDependencies": {
+        "corifeus-builder": "^1.7.504-501"
+    },
+    "dependencies": {
+        "commander": "^2.9.0",
+        "corifeus-utils": "^1.1.100-140",
+        "progress": "^2.0.0"
+    },
+    "engines": {
+        "node": ">=7.8.0"
+    }
+}
