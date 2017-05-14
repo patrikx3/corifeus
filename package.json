@@ -1,12 +1,11 @@
 {
     "name": "corifeus",
-    "version": "1.0.1245-297",
+    "version": "1.0.1250-44",
     "corifeus": {
         "icon": "fa fa-superpowers",
         "inception": "12/25/2016",
-        "time": "5/8/2017, 9:08:12 AM",
-        "time-stamp": 1494227292502,
         "code": "Venture",
+        "cdn": true,
         "menu": [
             {
                 "name": "menu-corifeus-code-style",
@@ -51,11 +50,11 @@
     },
     "homepage": "https://pages.corifeus.tk/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^1.7.504-501"
+        "corifeus-builder": "^1.7.552-27"
     },
     "dependencies": {
         "commander": "^2.9.0",
-        "corifeus-utils": "^1.1.100-140",
+        "corifeus-utils": "^1.1.134-24",
         "progress": "^2.0.0"
     },
     "engines": {

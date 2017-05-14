@@ -1,16 +1,20 @@
 [//]: #@corifeus-header
 
-[![Build Status](https://travis-ci.org/patrikx3/corifeus.svg?branch=master)](https://travis-ci.org/patrikx3/corifeus)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  [![Trello](https://img.shields.io/badge/Trello-Corifeus-026aa7.svg)](https://trello.com/b/3NArfcD1/corifeus)
 
 ---
 
 # Corifeus One - Venture
 
 ### Node Version Requirement 
-``` >=7.8.0 ```  
+``` 
+>=7.8.0 
+```  
    
 The ```async``` and ```await``` keywords are required.
 
+Install NodeJs:    
+https://nodejs.org/en/download/package-manager/    
+  
 # Description
 
 
@@ -21,7 +25,7 @@ The ```async``` and ```await``` keywords are required.
 
 # Architecture
 
-![Corifeus Architecture](https://cdn.rawgit.com/patrikx3/resume-web/master/deployment/public/files/playground/corifeus-architecture/corifeus-p3x-tdd-component.svg)
+![Corifeus Architecture](https://patrikx3.tk/files/playground/corifeus-architecture/corifeus-p3x-tdd-component.svg)
 
 ## Interoperability
 * Client
@@ -125,7 +129,7 @@ The ```async``` and ```await``` keywords are required.
 [//]: #@corifeus-footer
 
 ---
-[**CORIFEUS**](https://pages.corifeus.tk/corifeus) Build v1.0.1242-296 on 5/8/2017, 9:07:31 AM
+[**CORIFEUS**](https://pages.corifeus.tk/corifeus) Build v1.0.1248-30
 
 [Corifeus](http://github.com/patrikx3/corifeus) by [Patrik Laszlo](http://patrikx3.tk)
  

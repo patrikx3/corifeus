@@ -102,6 +102,7 @@ const init = async (commanderEnabled = true) => {
             .version(pkg.version)
             .usage('[options]')
             .option('-v, --verbose', 'Verbose')
+            .option('-n, --npm', 'Npm to original registry')
             .option('-p, --projects <items>', 'The list of projects', (val) => {
                 return val.split(',');
             })
@@ -195,8 +196,8 @@ const publish = async () => {
     await utils.array.forEachAsync(projects, async (project) => {
         const setting = settings[project];
         if (setting !== undefined && setting.hasOwnProperty('publish') ) {
-            await exec(project, `grunt cory-npm
-npm publish`, barPublish);
+            await exec(project, `${commander.npm ? '' : 'grunt cory-npm'}
+npm publish ${commander.npm ? ' --registry https://registry.npmjs.org' : ''}`, barPublish);
             await upgrade(barPublish)
         } else {
             barPublish.tick({

@@ -8,14 +8,6 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/artifacts" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
-      <excludeFolder url="file://$MODULE_DIR$/corifeus-app-server-patrikx3" />
-      <excludeFolder url="file://$MODULE_DIR$/corifeus-app-web-pages" />
-      <excludeFolder url="file://$MODULE_DIR$/corifeus-builder" />
-      <excludeFolder url="file://$MODULE_DIR$/corifeus-builder-angular" />
-      <excludeFolder url="file://$MODULE_DIR$/corifeus-server" />
-      <excludeFolder url="file://$MODULE_DIR$/corifeus-server-deployer" />
-      <excludeFolder url="file://$MODULE_DIR$/corifeus-web" />
-      <excludeFolder url="file://$MODULE_DIR$/corifeus-web-material" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

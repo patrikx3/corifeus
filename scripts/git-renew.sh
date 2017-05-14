@@ -4,7 +4,7 @@
 # git config credential.helper store
 git config --global credential.helper 'cache --timeout 7200'
 
-git checkout --orphan TEMP_BRANCH
+git checkout --orphan temp
 
 # Add all the files:
 git add -A
