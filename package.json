@@ -50,11 +50,11 @@
     },
     "homepage": "https://pages.corifeus.tk/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^1.7.592-45"
+        "corifeus-builder": "^1.7.605-49"
     },
     "dependencies": {
         "commander": "^2.9.0",
-        "corifeus-utils": "^1.1.260-49",
+        "corifeus-utils": "^1.1.269-54",
         "progress": "^2.0.0"
     },
     "engines": {
