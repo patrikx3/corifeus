@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-git clone https://git.patrikx3.tk/corifeus.git
+git clone https://github.com/patrikx3/corifeus.git
 pushd corifeus
 git checkout master
-git submodule update --init --recursive
+git submodule update --init --recursive --remote
 git submodule foreach --recursive git checkout master
 
 yarn install

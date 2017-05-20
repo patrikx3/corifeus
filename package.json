@@ -1,10 +1,10 @@
 {
     "name": "corifeus",
-    "version": "1.0.1250-44",
+    "version": "1.0.1258-100",
     "corifeus": {
         "icon": "fa fa-superpowers",
         "inception": "12/25/2016",
-        "code": "Venture",
+        "code": "Matrix",
         "cdn": true,
         "menu": [
             {
@@ -25,7 +25,7 @@
             }
         ]
     },
-    "description": "Corifeus One - Venture",
+    "description": "Corifeus Matrix",
     "main": "src/index.js",
     "directories": {
         "test": "test"
@@ -50,11 +50,11 @@
     },
     "homepage": "https://pages.corifeus.tk/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^1.7.552-27"
+        "corifeus-builder": "^1.7.592-45"
     },
     "dependencies": {
         "commander": "^2.9.0",
-        "corifeus-utils": "^1.1.134-24",
+        "corifeus-utils": "^1.1.260-49",
         "progress": "^2.0.0"
     },
     "engines": {

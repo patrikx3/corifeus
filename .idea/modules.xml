@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/corifeus.iml" filepath="$PROJECT_DIR$/.idea/corifeus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-app-server-patrikx3/corifeus-app-server-patrikx3.iml" filepath="$PROJECT_DIR$/corifeus-app-server-patrikx3/corifeus-app-server-patrikx3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-app-web-pages/corifeus-app-web-pages.iml" filepath="$PROJECT_DIR$/corifeus-app-web-pages/corifeus-app-web-pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-builder/corifeus-builder.iml" filepath="$PROJECT_DIR$/corifeus-builder/corifeus-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-builder-angular/corifeus-builder-angular.iml" filepath="$PROJECT_DIR$/corifeus-builder-angular/corifeus-builder-angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-server/corifeus-server.iml" filepath="$PROJECT_DIR$/corifeus-server/corifeus-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-server-deployer/corifeus-server-deployer.iml" filepath="$PROJECT_DIR$/corifeus-server-deployer/corifeus-server-deployer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-utils/corifeus-utils.iml" filepath="$PROJECT_DIR$/corifeus-utils/corifeus-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-web/corifeus-web.iml" filepath="$PROJECT_DIR$/corifeus-web/corifeus-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corifeus-web-material/corifeus-web-material.iml" filepath="$PROJECT_DIR$/corifeus-web-material/corifeus-web-material.iml" />
+    </modules>
+  </component>
+</project>

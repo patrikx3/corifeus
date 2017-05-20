@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-app-server-patrikx3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-app-web-pages" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-builder-angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-server-deployer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corifeus-web-material" vcs="Git" />
+  </component>
+</project>
