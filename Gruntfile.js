@@ -1,5 +1,4 @@
-// ramdisk
-// ramdisk 2
+const utils = require('corifeus-utils');
 
 module.exports = (grunt) => {
     const _ = require('lodash');
@@ -8,18 +7,18 @@ module.exports = (grunt) => {
     const loader = new builder.loader(grunt);
     loader.js();
 
-    const lib = require('./src/lib')
 
     grunt.registerTask('cory-load-modules', async function() {
         const done = this.async();
         let replace = '';
-        await lib.init(false);
-        const pkgs = await lib.extractPackages();
-        const pkgNames = Object.keys(pkgs).sort();
-        pkgNames.forEach((pkgName) => {
-            const pkg = pkgs[pkgName];
+        let finds = await utils.fs.find({
+            find: 'package.json',
+        });
+        finds.forEach((found) => {
+            const pkg = require(found.path);
             const desc = pkg.description ;
-            replace += `[${desc}](https://github.com/patrikx3/${pkgName})              
+            replace += `### ${desc} 
+[Wiki](/${pkg.name}) - [Github](https://github.com/patrikx3/${pkg.name})              
   
 `
         })

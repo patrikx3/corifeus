@@ -5,11 +5,11 @@
 # Corifeus Matrix
 
 ## Issues / Support
-This is an open source project. Time is a precious thing, so I have no time to give support and fix issues for someone else. I fix a bug, when I have an error that I need. If you got an issue, error or bug, I hope someone will have time to do it for you, otherwise, you are on you own.
+This is an open source project. Time is a precious thing, so I have rarely time to give support and fix issues for someone else. I fix a bug, when I have an error that I need. If you got an issue, error or bug, I hope someone will have time to do it for you, otherwise, you are on your own.
 
-Though, if I know the solution, I will tell you.
+Though, if I know the solution, I will tell you. Besides, core errors will be fixed by me.
 
-If you want to extend, fix bugs and add in new features on your own time, I help you , as ```patrikx3``` is an orgnization. I can add in anyone in no time. Not forking, you become a member, do not even need a pull merge request.
+***If you want to extend, fix bugs or add in new features, I promptly merge pull requests or you can become a ```patrikx3``` member.***
 
 ### Node Version Requirement 
 ``` 
@@ -140,7 +140,7 @@ https://nodejs.org/en/download/package-manager/
 [//]: #@corifeus-footer
 
 ---
-[**CORIFEUS**](https://pages.corifeus.tk/corifeus) Build v1.0.1255-100
+[**CORIFEUS**](https://pages.corifeus.tk/corifeus) Build v1.0.1265-155
 
 [Corifeus](http://www.corifeus.tk) by [Patrik Laszlo](http://patrikx3.tk)
 
