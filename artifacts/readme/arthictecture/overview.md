@@ -140,7 +140,7 @@ https://nodejs.org/en/download/package-manager/
 [//]: #@corifeus-footer
 
 ---
-[**CORIFEUS**](https://pages.corifeus.tk/corifeus) Build v1.0.1265-155
+[**CORIFEUS**](https://pages.corifeus.tk/corifeus) Build v1.0.1268-11
 
 [Corifeus](http://www.corifeus.tk) by [Patrik Laszlo](http://patrikx3.tk)
 
