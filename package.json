@@ -50,7 +50,7 @@
     },
     "homepage": "https://pages.corifeus.tk/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^1.7.649-9"
+        "corifeus-builder": "^1.7.660-16"
     },
     "engines": {
         "node": ">=7.8.0"
