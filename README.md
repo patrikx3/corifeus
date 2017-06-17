@@ -49,7 +49,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, **Bugtron, Reverse,  Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, Mócsing, Insomnia, MissOut, Dongó** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, **Bugtron, Reverse,  Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, Insomnia, MissOut, Dongó, Mafia, Hammer, Villam, Kalapacs, Thunder, Hurricane, Logico, Nanometer, Lazar** 
 
 ## Agent
 p3x-robot, p3x-robot-git-mirror
