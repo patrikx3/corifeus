@@ -13,7 +13,7 @@ build:
     before:
       - export LATEST=$(nvm ls-remote | tail -1)
       - nvm install $LATEST
-      - nvm use $LATEST
+#      - nvm use $LATEST
       - npm install -g grunt-cli
 
   tests:
