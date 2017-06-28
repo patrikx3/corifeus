@@ -8,6 +8,8 @@ filter:
     - docs/*
 
 build:
+  environment:
+    node: 8.1.0
 
   dependencies:
     before:
