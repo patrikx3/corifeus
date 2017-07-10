@@ -18,7 +18,7 @@ module.exports = (grunt) => {
             const pkg = require(found.path);
             const desc = pkg.description ;
             replace += `### ${desc} 
-[Wiki](https://pages.corifeus.tk/${pkg.name}) - [Github](https://github.com/patrikx3/${pkg.name})              
+[Wiki](https://pages.corifeus.com/${pkg.name}) - [Github](https://github.com/patrikx3/${pkg.name})              
   
 `
         })

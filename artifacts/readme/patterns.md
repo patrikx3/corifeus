@@ -67,8 +67,8 @@
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.tk/corifeus) Build v1.0.1272-119
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1272-119
 
-[Corifeus](http://www.corifeus.tk) by [Patrik Laszlo](http://patrikx3.tk)
+[Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
 [//]: #@corifeus-footer:end

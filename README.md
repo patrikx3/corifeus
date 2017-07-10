@@ -44,7 +44,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, **Bugtron, Reverse,  Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, Insomnia, MissOut, Dongó, Mafia, Hammer, Villam, Kalapacs, Thunder, Hurricane, Logico, Nanometer, Lazar, Elektra** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, **Bugtron, Reverse,  Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, Insomnia, MissOut, Dongó, Mafia, Hammer, Villam, Kalapacs, Thunder, Hurricane, Logico, Nanometer, Lazar, Elektra, Tempo** 
 
 ## Agent
 p3x-robot, p3x-robot-git-mirror
@@ -62,34 +62,34 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 
 [//]: #@corifeus-projects
 ### Corifeus Matrix 
-[Wiki](https://pages.corifeus.tk/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
+[Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
   
 ### Corifeus App Server P3X - Spectrum 
-[Wiki](https://pages.corifeus.tk/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
+[Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
   
 ### Corifeus App Web Pages - Support 
-[Wiki](https://pages.corifeus.tk/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
+[Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
   
 ### Corifeus Builder - Make 
-[Wiki](https://pages.corifeus.tk/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
+[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
 ### Corifeus Builder Angular - Prototype 
-[Wiki](https://pages.corifeus.tk/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
+[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
   
 ### Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.tk/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
 ### Corifeus Server Deployer - Last 
-[Wiki](https://pages.corifeus.tk/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
+[Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
   
 ### Corifeus Utils - Memory 
-[Wiki](https://pages.corifeus.tk/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
+[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
 ### Corifeus Web - Forest 
-[Wiki](https://pages.corifeus.tk/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
+[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
   
 ### Corifeus Web Material - Amazing 
-[Wiki](https://pages.corifeus.tk/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
+[Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
   
 
 [//]: #@corifeus-projects:end
@@ -104,14 +104,14 @@ iwr https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.ps1 
 
 # or, add credit
 
-iwr https://git.patrikx3.tk/corifeus.git/raw/master/scripts/init.ps1 -UseBasicParsing | iex
+iwr https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.ps1 -UseBasicParsing | iex
 ```
 
 ## \*nix / BSD / Bash / Curl
 ```bash
 curl -sL https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.sh | bash -
 # or
-curl -sL -u patrikx3 https://git.patrikx3.tk/corifeus.git/raw/master/scripts/init.sh | bash -
+curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.sh | bash -
 ```
 
 # Inception
@@ -126,8 +126,8 @@ curl -sL -u patrikx3 https://git.patrikx3.tk/corifeus.git/raw/master/scripts/ini
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.tk/corifeus) Build v1.0.1272-119
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1272-119
 
-[Corifeus](http://www.corifeus.tk) by [Patrik Laszlo](http://patrikx3.tk)
+[Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
 [//]: #@corifeus-footer:end
