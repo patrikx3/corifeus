@@ -1,6 +1,7 @@
 [//]: #@corifeus-header
 
  [![Build Status](https://travis-ci.org/patrikx3/corifeus.svg?branch=master)](https://travis-ci.org/patrikx3/corifeus)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  
+ 
 ---
 # Corifeus Matrix
 
@@ -47,7 +48,7 @@ web, android, ios, cli, rest, cordova, electron
 Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, **Bugtron, Reverse,  Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, Insomnia, MissOut, Dongó, Mafia, Hammer, Villam, Kalapacs, Thunder, Hurricane, Logico, Nanometer, Lazar, Elektra, Tempo** 
 
 ## Agent
-p3x-robot, p3x-robot-git-mirror
+p3x-robot, corifeus-render
 
 ## Colors
 Brown and green, like the forest and blue like the sky.
@@ -96,15 +97,15 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 
 
 # Install
-Requires minimum NodeJs 7.9.0, GIT and ```npm install -g npm-check-updates``` and ```npm install -g yarn```
+Requires minimum NodeJs 7.9.0, GIT and ```npm install -g npm-check-updates yarn grunt-cli```
 
 ## Windows / Powershell
 ```powershell
 iwr https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.ps1 -UseBasicParsing | iex
 
 # or, add credit
-
-iwr https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.ps1 -UseBasicParsing | iex
+$cred = Get-Credential
+iwr https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.ps1  -Credential $cred -UseBasicParsing | iex
 ```
 
 ## \*nix / BSD / Bash / Curl
@@ -126,7 +127,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1281-221
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1282-223
 
 [Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
