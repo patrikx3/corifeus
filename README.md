@@ -14,7 +14,7 @@ This is an open source project. Just code.
    
 ### Built on Node 
 ``` 
-v8.2.1
+v8.3.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -48,7 +48,7 @@ web, android, ios, cli, rest, cordova, electron
 Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, **Bugtron, Reverse,  Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, Insomnia, MissOut, Dongó, Mafia, Hammer, Villam, Kalapacs, Thunder, Hurricane, Logico, Nanometer, Lazar, Elektra, Tempo** 
 
 ## Agent
-p3x-robot, corifeus-render
+p3x-robot, corifeus-server-renderer
 
 ## Colors
 Brown and green, like the forest and blue like the sky.
@@ -127,7 +127,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1282-223
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1283-259
 
 [Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
