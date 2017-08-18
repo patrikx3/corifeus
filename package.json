@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "1.0.1284-279",
+    "version": "1.0.1287-306",
     "corifeus": {
         "icon": "fa fa-superpowers",
         "inception": "12/25/2016",
@@ -23,7 +23,8 @@
                 "name": "menu-corifeus-more-origin",
                 "link": "https://en.wikipedia.org/wiki/Coryphaeus"
             }
-        ]
+        ],
+        "nodejs": "v8.4.0"
     },
     "description": "Corifeus Matrix",
     "main": "src/index.js",
@@ -50,8 +51,8 @@
     },
     "homepage": "https://pages.corifeus.com/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^1.7.735-81",
-        "corifeus-utils": "^1.1.413-102"
+        "corifeus-builder": "^1.7.752-96",
+        "corifeus-utils": "^1.1.431-116"
     },
     "engines": {
         "node": ">=7.8.0"
