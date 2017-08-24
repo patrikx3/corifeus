@@ -68,26 +68,26 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 ### Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
   
-### Corifeus Builder - Make 
-[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
-  
 ### Corifeus App Web Pages - Support 
 [Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
   
-### Corifeus Server Deployer - Last 
-[Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
-  
-### Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
+### Corifeus Builder - Make 
+[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
 ### Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
   
-### Corifeus Web - Forest 
-[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
+### Corifeus Server - Motor 
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
+  
+### Corifeus Server Deployer - Last 
+[Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
   
 ### Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
+  
+### Corifeus Web - Forest 
+[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
   
 ### Corifeus Web Material - Amazing 
 [Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
@@ -127,7 +127,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1297-320
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1298-323
 
 [Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
