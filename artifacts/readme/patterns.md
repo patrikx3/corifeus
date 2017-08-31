@@ -67,7 +67,7 @@
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1305-350
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1306-352
 
 [Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
