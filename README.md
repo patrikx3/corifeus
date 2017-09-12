@@ -14,7 +14,7 @@ This is an open source project. Just code.
    
 ### Built on Node 
 ``` 
-v8.4.0
+v8.5.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -127,7 +127,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1310-374
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1311-374
 
 [Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
