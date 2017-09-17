@@ -45,7 +45,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, **Bugtron, Reverse, Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, , MissOut, Dongó, Mafia, Hammer, Villam, Kalapacs, Thunder, Hurricane, Logico, Nanometer, Lazar, Elektra, Backwash, Waterflood, Tension** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, **Bugtron, Reverse, Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, MissOut, Mafia, Hammer, Thunder, Hurricane, Logico, Nanometer, Elektra, Backwash, Waterflood, Tension, DoinIt, Fresh** 
 
 ## Agent
 p3x-robot, corifeus-server-renderer
@@ -127,7 +127,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1311-374
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1312-376
 
 [Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
