@@ -45,7 +45,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, **Bugtron, Reverse, Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, MissOut, Mafia, Hammer, Thunder, Hurricane, Nanometer, Elektra, Backwash, Tension, DoinIt, Fresh, Breeze, Breaking** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, **Bugtron, Reverse, Love, Halite, Micro, PHP (the CMS code name), Sunday, Forty, Venture, Last, MissOut, Mafia, Hammer, Thunder, Hurricane, Nanometer, Elektra, Backwash, Tension, DoinIt, Fresh, Breeze, Breaking, Trubo** 
 
 ## Agent
 p3x-robot, corifeus-server-renderer
@@ -80,11 +80,11 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 ### Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
-### Corifeus Server Deployer - Last 
-[Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
-  
 ### Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
+  
+### Corifeus Server Deployer - Last 
+[Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
   
 ### Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
@@ -127,7 +127,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1322-409
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1323-412
 
 [Corifeus](http://www.corifeus.com) by [Patrik Laszlo](http://patrikx3.com)
 
