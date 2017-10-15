@@ -45,7 +45,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, **Bugtron, Reverse, Halite, Micro, Sunday, Forty, Venture, Last, MissOut, Mafia, Thunder, Hurricane, Nanometer, Elektra, Backwash, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Trubo, Elephant, Underground** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, Elephant, **Bugtron, Reverse, Halite, Micro, Sunday, Forty, Venture, Last, MissOut, Mafia, Thunder, Hurricane, Nanometer, Elektra, Backwash, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Trubo, Underground** 
 
 ## Agent
 p3x-robot, corifeus-server-renderer
