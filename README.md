@@ -14,7 +14,7 @@ This is an open source project. Just code.
    
 ### Built on Node 
 ``` 
-v8.7.0
+v8.8.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -74,11 +74,11 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 ### Corifeus Builder - Make 
 [Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
-### Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
-  
 ### Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
+  
+### Corifeus Server - Motor 
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
 ### Corifeus Server Deployer - Last 
 [Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
@@ -127,7 +127,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1338-494 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1339-498 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
  
