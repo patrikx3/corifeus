@@ -3,7 +3,7 @@
  [![Build Status](https://travis-ci.org/patrikx3/corifeus.svg?branch=master)](https://travis-ci.org/patrikx3/corifeus)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  
  
 ---
-# Corifeus Matrix v1.0.1375-592  
+# Corifeus Matrix v1.0.1379-598  
 
 This is an open source project. Just code.
 
@@ -45,7 +45,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, Elephant, **Bugtron, Reverse, Halite, Micro, Sunday, Forty, Venture, Last, MissOut, Mafia, Thunder, Hurricane, Nanometer, Elektra, Backwash, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Trubo, Underground, 2Q, White Raven** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, Elephant, **Bugtron, Reverse, Halite, Micro, Sunday, Forty, Venture, Last, MissOut, Mafia, Thunder, Hurricane, Nanometer, Elektra, Backwash, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Trubo, Underground, 2Q, White Raven, Fireball** 
 
 ## Agent
 p3x-robot, corifeus-server-renderer
@@ -127,7 +127,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1375-592 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1379-598 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LFRV89WPRMMVE&lc=HU&item_name=Patrik%20Laszlo&item_number=patrikx3&currency_code=HUF&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
 
