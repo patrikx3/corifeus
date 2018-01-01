@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "1.0.1402-688",
+    "version": "1.0.1404-694",
     "corifeus": {
         "icon": "fa fa-superpowers",
         "inception": "12/25/2016",
@@ -51,8 +51,8 @@
     },
     "homepage": "https://pages.corifeus.com/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^1.7.1110-261",
-        "corifeus-utils": "^1.1.740-255"
+        "corifeus-builder": "^1.7.1114-262",
+        "corifeus-utils": "^1.1.744-257"
     },
     "engines": {
         "node": ">=8.9.0"
