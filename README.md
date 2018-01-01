@@ -3,11 +3,12 @@
  [![Build Status](https://travis-ci.org/patrikx3/corifeus.svg?branch=master)](https://travis-ci.org/patrikx3/corifeus)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  
  
 ---
-# Corifeus Matrix v1.0.1403-694  
+# Corifeus Matrix v1.0.1407-698  
 
 This is an open source project. Just code. If you like this code, please add a star in GitHub and you really like, you can donate as well. Thanks you so much!
 
-Travis is having issues, but with Scrutinizer it works 100%.
+Right now, Travis is giving errors (quota errors with parallel builds), though Scrutinizer is working 100% - building, code quality, coverage.
+
 
 Given, I have my own server, with dynamic IP address, it could happen that the server for about max 5 minutes can not be reachable for the dynamic DNS or very rarely I backup with Clonzilla the SSD or something with the electricity (too much hoovering or cleaning - but I worked on it, so should not happen again), but for some reason, it is not reachable please hang on for 5-30 minutes and it will be back for sure. 
 
@@ -73,11 +74,11 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 ### Corifeus Matrix 
 [Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
   
-### Corifeus App Server P3X - Spectrum 
-[Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
-  
 ### Corifeus App Web Pages - Support 
 [Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
+  
+### Corifeus App Server P3X - Spectrum 
+[Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
   
 ### Corifeus Builder - Make 
 [Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
@@ -91,11 +92,11 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 ### Corifeus Server Deployer - Last 
 [Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
   
-### Corifeus Utils - Memory 
-[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
-  
 ### Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
+  
+### Corifeus Utils - Memory 
+[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
 ### Corifeus Web Material - Amazing 
 [Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
@@ -135,7 +136,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1403-694 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1407-698 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LFRV89WPRMMVE&lc=HU&item_name=Patrik%20Laszlo&item_number=patrikx3&currency_code=HUF&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
