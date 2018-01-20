@@ -51,7 +51,7 @@ undefined
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, Elephant, **Bugtron, Reverse, Halite, Micro, Sunday, Forty, Venture, Last, MissOut, Mafia, Hurricane, Nanometer, Elektra, Backwash, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Trubo, Underground, 2Q, White Raven, Fireball, Thunder Cluster** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, Elephant, **Bugtron, Reverse, Halite, Micro, Sunday, Forty, Venture, Last, Mafia, Hurricane, Nanometer, Elektra, Backwash, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Trubo, Underground, 2Q, White Raven, Fireball, Thunder Cluster** 
 
 ## Agent
 p3x-robot, corifeus-server-renderer
