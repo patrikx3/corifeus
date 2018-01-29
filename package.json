@@ -51,8 +51,8 @@
     },
     "homepage": "https://pages.corifeus.com/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^1.7.1179-291",
-        "corifeus-utils": "^1.1.789-277"
+      "corifeus-builder": "^1.7.1184-295",
+      "corifeus-utils": "^1.1.793-280"
     },
     "engines": {
         "node": ">=8.9.0"
