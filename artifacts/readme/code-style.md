@@ -9,11 +9,16 @@
 
 # Code style
 
+## Case we use
+
+```camelCase = theFirstIsSmallTheRestIsCapital```  
+
 ```kabeb-case = meaning-only-lower-case-and-a-z-and-dash-and-numbers```  
+  
+## Case we do not use  
   
 ```PascalCase = JustAlphaAndAlwaysCapitalWords``` 
   
-```camelCase = theFirstIsSmallTheRestIsCapital```  
 
 ## CSS Prefix
 ``` kabeb-case ```  
@@ -62,7 +67,7 @@ https://localhost/very-long-sentance/is/just/kebab-case.html
 camel-case.js
 
 // class
-pascal-case-is-kebab-as-well.js
+camel-case-is-kebab-as-well.js
 
 // html file
 kabeb-case.html
@@ -140,8 +145,8 @@ class simpleClass {
     get instanceProperty() { return true; }
     set instanceProperty(value) { this._instanceProperty = value; }
     
-    static classMethod() { console.log('PascalCase'); }
-    static get classProperty() { return 'PascalCase'; }
+    static classMethod() { console.log('camelCase'); }
+    static get classProperty() { return 'camelCase'; }
     
 }
 ```   
@@ -154,7 +159,7 @@ class simpleClass {
 const objects = {
     variableNow: camelCase,
     methodName: camelCase,
-    NameOfTheClass: PascalCase,
+    nameOfTheClass: camelCase,
     staticFuncitonName: camelCase.static,
     instance: camelCase.variable            
 }
@@ -166,7 +171,7 @@ const objects = {
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1435-794 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1437-802 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
