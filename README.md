@@ -3,11 +3,11 @@
  [![Build Status](https://travis-ci.org/patrikx3/corifeus.svg?branch=master)](https://travis-ci.org/patrikx3/corifeus)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  
  
 ---
-# Corifeus Matrix v1.0.1450-865  
+# Corifeus Matrix v1.0.1452-867  
 
 This is an open-source project. Star this repository if you like it, or even donate!  Thank you so much! :)
 
-I run my own server with dynamic IP address so it may happen that the server can not be reachable for about max 5 minutes due to the dynamic DNS. The server may also be unreachable when I backup the SSD with Clonzilla (very rarely) or an electrical issue (but this should not happen again). When he server is down, please hang on for 5-30 minutes and the server will be back up.
+I run my own server with dynamic IP address so it may happen that the server can not be reachable for about max 5 minutes due to the dynamic DNS. The server may also be unreachable when I backup the SSD with Clonzilla (very rarely) or an electrical issue (but this should not happen again). When the server is down, please hang on for 5-30 minutes and the server will be back up.
 
 All my domains (patrikx3.com and corifeus.com) could have errors since I am developing in my free time. However, it is usually stable.
 
@@ -81,17 +81,17 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 ### Corifeus Builder - Make 
 [Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
-### Corifeus Builder Angular - Prototype 
-[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
-  
 ### Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
-### Corifeus Utils - Memory 
-[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
+### Corifeus Builder Angular - Prototype 
+[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
   
 ### Corifeus Server Deployer - Last 
 [Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
+  
+### Corifeus Utils - Memory 
+[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
 ### Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
@@ -134,7 +134,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1450-865 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1452-867 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
