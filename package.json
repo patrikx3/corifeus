@@ -26,7 +26,7 @@
         ],
         "nodejs": "v9.11.1"
     },
-    "description": "Corifeus Matrix",
+    "description": "🎮 Corifeus Matrix",
     "main": "src/index.js",
     "directories": {
         "test": "test"
