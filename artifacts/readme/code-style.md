@@ -85,7 +85,7 @@ kabeb-case.css
 
 The namespace = ```corifeus```  
 
-```javascript
+```js
 // JavaScript 
 global.corifeus.camelCase = () => console.log('camelCase');
 global.corifeus.camelCase = class camelCaseClass {};
@@ -95,7 +95,7 @@ global.corifeus.camelCase = class camelCaseClass {};
 ## Variables
 ``` camelCase ```  
 
-```javascript
+```js
 // JavaScript 
 const variableIsCool = 'camelCase';
 let anotherVariable = false;
@@ -105,7 +105,7 @@ var oldTypeVariable = 'cool';
 ## Functions
 ``` camelCase ```  
 
-```javascript
+```js
 // JavaScript 
 function justSimpleFunction() {
     console.log('alsoCamelCase')
@@ -116,7 +116,7 @@ function justSimpleFunction() {
 
 ``` camelCase ```
 
-```javascript
+```js
 // JavaScript
 function prototypeBasedClass() {
     console.log('likeAClassIsCamelCase');
@@ -134,7 +134,7 @@ prototypeBasedClass.prototype.instanceVariable = true;
 ## Classes
 ``` camelCase ```
 
-```javascript
+```js
 // JavaScript
 class simpleClass {
     constructor() {}
@@ -153,7 +153,7 @@ class simpleClass {
 ## Objects
 ``` camelCase ```
 
-```javascript
+```js
 // JavaScript 
 const objects = {
     variableNow: camelCase,
@@ -170,7 +170,7 @@ const objects = {
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1472-923 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1473-944 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
