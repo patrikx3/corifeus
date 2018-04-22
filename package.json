@@ -2,7 +2,7 @@
     "name": "corifeus",
     "version": "1.0.1472-923",
     "corifeus": {
-        "icon": "fa fa-superpowers",
+        "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
         "code": "Matrix",
         "cdn": true,
