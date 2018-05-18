@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "1.0.1491-1049",
+    "version": "1.0.1493-1069",
     "corifeus": {
         "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
@@ -26,7 +26,8 @@
         ],
         "nodejs": "v10.1.0",
         "opencollective": false,
-        "reponame": "corifeus"
+        "reponame": "corifeus",
+        "build": true
     },
     "description": "🎮 Corifeus Matrix",
     "main": "src/index.js",
@@ -53,8 +54,8 @@
     },
     "homepage": "https://pages.corifeus.com/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^1.7.1400-407",
-        "corifeus-utils": "^1.2.57-380"
+        "corifeus-builder": "^1.8.9-414",
+        "corifeus-utils": "^1.2.66-383"
     },
     "engines": {
         "node": ">=8.9.0"
