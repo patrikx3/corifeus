@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "1.0.1499-1086",
+    "version": "1.0.1500-1102",
     "corifeus": {
         "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
@@ -24,7 +24,7 @@
                 "link": "https://en.wikipedia.org/wiki/Coryphaeus"
             }
         ],
-        "nodejs": "v10.2.1",
+        "nodejs": "v10.5.0",
         "opencollective": false,
         "reponame": "corifeus",
         "build": true
