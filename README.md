@@ -3,7 +3,7 @@
  [![Build Status](https://travis-ci.org/patrikx3/corifeus.svg?branch=master)](https://travis-ci.org/patrikx3/corifeus)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/corifeus/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/corifeus/?branch=master)  
  
 ---
-# 🎮 Corifeus Matrix v1.0.1499-1086  
+# 🎮 Corifeus Matrix v1.0.1501-1126  
 
 This is an open-source project. Star this repository if you like it, or even donate!  Thank you so much! :)
 
@@ -15,12 +15,12 @@ All my domains (patrikx3.com and corifeus.com) could have errors since I am deve
 
 ### Node Version Requirement 
 ``` 
->=10.2.1 
+>=10.5.0 
 ```  
    
 ### Built on Node 
 ``` 
-v10.5.0
+v10.6.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -53,7 +53,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, Elephant, Reverse, NKOTB (New Kids On The Block), Spawn, Last, White Raven, **Done, Legend, Halite, Micro, Sunday, Forty, Venture, Mafia, Hurricane, Nanometer, Elektra, Backwash, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, 2Q, 3Q, Fireball, Thunder Cluster** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Waterflood, Elephant, Reverse, NKOTB (New Kids On The Block), Spawn, Last, White Raven, 2Q, Backwash, Howling, **RoboX3, Done, Legend, Halite, Micro, Sunday, Forty, Venture, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Fireball, Thunder Cluster** 
 
 ## Agent
 p3x-robot, corifeus-server-renderer
@@ -85,7 +85,7 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
   
-### 🖳 Corifeus Server - Motor 
+### 🏁 Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
 ### Corifeus Server Deployer - Last 
@@ -131,7 +131,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1499-1086 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1501-1126 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
