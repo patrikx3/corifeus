@@ -1,9 +1,12 @@
 [//]: #@corifeus-header
 
- [![Build Status](https://travis-ci.org/patrikx3/corifeus.svg?branch=master)](https://travis-ci.org/patrikx3/corifeus)  
+ [![Build Status](https://travis-ci.org/patrikx3/corifeus.svg?branch=master)](https://travis-ci.org/patrikx3/corifeus) 
+[![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m780749701-41bcade28c1ea8154eda7cca.svg)](https://uptimerobot.patrikx3.com/)
+
+  
  
 ---
-# 🎮 Corifeus Matrix v1.0.1502-1126  
+# 🎮 Corifeus Matrix v1.0.1505-1159  
 
 This is an open-source project. Star this repository, if you like it, or even donate! Thank you so much! :)
 
@@ -20,7 +23,7 @@ All my domains (patrikx3.com and corifeus.com) could have errors, since I am dev
    
 ### Built on Node 
 ``` 
-v10.6.0
+v10.8.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -53,7 +56,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Elephant, Reverse, NKOTB (New Kids On The Block), Spawn, Last, 2Q, Backwash, Howling, **White Raven, Waterflood, RoboX8, Done, Legend, Halite, Micro, Sunday, Forty, Venture, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Fireball, Thunder Cluster** 
+Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Elephant, Reverse, NKOTB (New Kids On The Block), Spawn, Last, 2Q, Backwash, Howling, **Tracktor, Robo8X, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Venture, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Fireball, Thunder Cluster** 
 
 ## Agent
 p3x-robot, corifeus-server-renderer
@@ -131,7 +134,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1502-1126 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1505-1159 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
