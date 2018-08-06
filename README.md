@@ -56,10 +56,10 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Matrix, Spectrum, Support, Make, Prototype, Motor, Crusoe, Memory, Forest, Amazing, Split, Insomnia, Tempo, Logico, Elephant, Reverse, NKOTB (New Kids On The Block), Spawn, Last, 2Q, Backwash, Howling, **Tracktor, Robo8X, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Venture, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Fireball, Thunder Cluster** 
+Linux, Logico, Vader, Spawn, Mafia, Insomnia, NKOTB (New Kids On The Block), Support, Elephant, MissOut, Tempo, CIA, Amazing, Matrix, Next, WwkhtmlTox, Prototype, Last, Forest, Memory, 2Q, Backwash, Motor, Make, Spectrum, Flap, Split, **Reverse, Howling, Crusoe, Tracktor, Robo8X, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Venture, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Fireball, Thunder Cluster** 
 
 ## Agent
-p3x-robot, corifeus-server-renderer
+p3x-robot, robo8x, corifeus-server-renderer
 
 ## Colors
 Brown and green, like the forest and blue like the sky.
@@ -70,7 +70,8 @@ Scrunitizer, Travis, Github, JSDoc, NPM, Docker, MIT License, Grunt, ES.NEXT, Ty
 ### Mixed
 Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 
-## Projects
+## Corifeus Projects
+There are `P3X` projects as well.
 
 [//]: #@corifeus-projects
 ### 🎮 Corifeus Matrix 
@@ -90,10 +91,7 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
   
 ### 🏁 Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
-  
-### Corifeus Server Deployer - Last 
-[Wiki](https://pages.corifeus.com/corifeus-server-deployer) - [Github](https://github.com/patrikx3/corifeus-server-deployer)              
-  
+
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
@@ -108,7 +106,7 @@ Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 
 
 # Install
-Requires minimum NodeJs 7.9.0, GIT and ```npm install -g npm-check-updates yarn grunt-cli```
+Requires minimum NodeJs v10, GIT and ```npm install -g npm-check-updates yarn grunt-cli```
 
 ## Windows / Powershell
 ```powershell

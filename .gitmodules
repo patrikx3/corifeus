@@ -18,11 +18,6 @@ path=corifeus-server
 url=https://github.com/patrikx3/corifeus-server
 branch=master
 
-[submodule "corifeus-server-deployer"]
-path=corifeus-server-deployer
-url=https://github.com/patrikx3/corifeus-server-deployer
-branch=master
-
 [submodule "corifeus-web"]
 path=corifeus-web
 url=https://github.com/patrikx3/corifeus-web
