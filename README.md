@@ -6,7 +6,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v1.0.1505-1159  
+# 🎮 Corifeus Matrix v1.0.1510-1179  
 
 This is an open-source project. Star this repository, if you like it, or even donate! Thank you so much! :)
 
@@ -56,7 +56,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Linux, Logico, Vader, Spawn, Mafia, Insomnia, NKOTB (New Kids On The Block), Support, Elephant, MissOut, Tempo, CIA, Amazing, Matrix, Next, WwkhtmlTox, Prototype, Last, Forest, Memory, 2Q, Backwash, Motor, Make, Spectrum, Flap, Split, **Reverse, Howling, Crusoe, Tracktor, Robo8X, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Venture, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Fireball, Thunder Cluster** 
+Linux, Logico, Vader, Spawn, Mafia, Insomnia, MissOut, Support, Tempo, Matrix, CIA, Amazing, Next, WwkhtmlTox, Last, Forest, Memory, Motor, Make, Prototype, Spectrum, Flap, Split, **2Q, Backwash, Reverse, Howling, Crusoe, Tracktor, Robo8X, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Venture, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Fireball, Thunder Cluster** 
 
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
@@ -65,7 +65,7 @@ p3x-robot, robo8x, corifeus-server-renderer
 Brown and green, like the forest and blue like the sky.
 
 ## Frameworks, B2B
-Scrunitizer, Travis, Github, JSDoc, NPM, Docker, MIT License, Grunt, ES.NEXT, TypeScript, WebPack, Bower, ReactiveX
+Travis, Github, NPM, Docker, MIT License, Grunt, ES.NEXT, TypeScript, WebPack, ReactiveX
 
 ### Mixed
 Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
@@ -91,7 +91,7 @@ There are `P3X` projects as well.
   
 ### 🏁 Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
-
+  
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
@@ -132,7 +132,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1505-1159 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1510-1179 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 

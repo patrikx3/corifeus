@@ -132,6 +132,11 @@ prototypeBasedClass.prototype.instanceVariable = true;
 ```
 
 ## Classes
+
+Usually, we do not use OOP in JavaScript, for us, it is too functional to use OOP instead. Only TypeScript uses a lot of OOP. JavaScript is much functional.  
+
+We like simple solutions, instead of being too strict programming, of course JavaScript allows some strict functions... 🙈
+
 ``` camelCase ```
 
 ```js
@@ -170,7 +175,7 @@ const objects = {
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1505-1159 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1510-1179 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
