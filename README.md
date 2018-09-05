@@ -6,7 +6,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v1.0.1514-1192  
+# 🎮 Corifeus Matrix v2018.9.5-0  
 
 This is an open-source project. Star this repository, if you like it, or even donate! Thank you so much! :)
 
@@ -18,7 +18,7 @@ All my domains (patrikx3.com and corifeus.com) could have errors, since I am dev
 
 ### Node Version Requirement 
 ``` 
->=10.8.0 
+>=10.9.0 
 ```  
    
 ### Built on Node 
@@ -89,14 +89,14 @@ There are `P3X` projects as well.
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
   
-### 🌳 Corifeus Web - Forest 
-[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
+### 🏁 Corifeus Server - Motor 
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
-### 🏁 Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
+### 🌳 Corifeus Web - Forest 
+[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
   
 ### 🌴 Corifeus Web Material - Amazing 
 [Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
@@ -132,7 +132,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v1.0.1514-1192 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.9.5-0 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
