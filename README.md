@@ -6,7 +6,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2018.9.5-0  
+# 🎮 Corifeus Matrix v2018.9.16-1  
 
 This is an open-source project. Star this repository, if you like it, or even donate! Thank you so much! :)
 
@@ -18,12 +18,12 @@ All my domains (patrikx3.com and corifeus.com) could have errors, since I am dev
 
 ### Node Version Requirement 
 ``` 
->=10.9.0 
+>=8.11.4 
 ```  
    
 ### Built on Node 
 ``` 
-v10.9.0
+v10.10.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -56,7 +56,7 @@ https://nodejs.org/en/download/package-manager/
 web, android, ios, cli, rest, cordova, electron
 
 ## Code names
-Linux, Logico, Vader, Spawn, Mafia, Insomnia, MissOut, Support, Tempo, Matrix, CIA, Amazing, Next, WwkhtmlTox, Last, Forest, Memory, Motor, Make, Prototype, Spectrum, Flap, Split, Fireball, Venture, **2Q, Backwash, Reverse, Howling, Crusoe, Tracktor, Robo8X, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Thunder Cluster** 
+Linux, Logico, Vader, Spawn, Mafia, Insomnia, MissOut, Support, Tempo, Matrix, CIA, Amazing, Next, WwkhtmlTox, Last, Forest, Memory, Motor, Make, Prototype, Spectrum, Flap, Split, Fireball, Reverse, 2Q, **Venture, Backwash, Howling, Crusoe, Tracktor, Robo8X, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Thunder Cluster** 
 
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
@@ -132,7 +132,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.9.5-0 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.9.16-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
