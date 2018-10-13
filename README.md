@@ -42,6 +42,22 @@ https://nodejs.org/en/download/package-manager/
 
 # About
 
+It used to be an ERP system, but it died slowly ...   
+Now, it provides on GitHub microservices and apps.
+
+
+## Programs including
+  
+* [P3X GitList](https://pages.corifeus.com/gitlist)
+* [P3X Redis UI](https://pages.corifeus.com/redis-ui)
+* [P3X Linux Onenote](https://pages.corifeus.com/onenote)
+* [Angular Compile](https://pages.corifeus.com/angular-compile)
+* [OpenWrt Insomnia](https://pages.corifeus.com/openwrt-insomnia)
+* [OpenWrt Redis](https://pages.corifeus.com/openwrt-redis)
+* [Facebook Fortune cookie](https://pages.corifeus.com/fortune-cookie)
+
+
+## History ...
 ... is a platform for core (auth / REST / CI), CMS, commercial and enterprise resource planning. 
 
 #### [The name of the platform.](https://en.wikipedia.org/wiki/Coryphaeus)
