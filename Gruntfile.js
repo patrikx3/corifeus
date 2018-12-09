@@ -10,29 +10,54 @@ module.exports = (grunt) => {
 
     grunt.registerTask('cory-load-modules', async function() {
         const done = this.async();
-        let replace = '';
-        let finds = await utils.fs.find({
-            find: 'package.json',
-        });
-        finds.forEach((found) => {
-            const pkg = require(found.path);
-            const desc = pkg.description ;
-            replace += `### ${desc} 
-[Wiki](https://pages.corifeus.com/${pkg.name}) - [Github](https://github.com/patrikx3/${pkg.name})              
+        try {
+            let replace = '';
+            /*
+            let finds = await utils.fs.find({
+                find: 'package.json',
+            });
+            const path = require('path')
+            const findsP3x = await utils.fs.find({
+                root: path.resolve(process.cwd(), '../p3x'),
+                find: 'package.json',
+            });
+
+            finds = finds.concat(findsP3x)
+            */
+            const packages = (await utils.http.request('https://server.patrikx3.com/api/patrikx3/git/repos')).body.repo
+
+            let sortedObject = {}
+            sortedObject = Object.keys(packages).sort((a, b) => {
+                return packages[b].corifeus.stargazers_count - packages[a].corifeus.stargazers_count
+            }).reduce((prev, curr, i) => {
+                prev[i] = packages[curr]
+                return prev
+            }, {})
+
+            Object.keys(sortedObject).forEach((key) => {
+                const pkg = sortedObject[key]
+                const desc = pkg.description ;
+                replace += `### ${desc} 
+[Wiki](https://pages.corifeus.com/${pkg.corifeus.reponame}) - [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})              
   
 `
-        })
-        const config = grunt.config.get('cory-replace');
-        config['projects'] = {
-            prefix: '[//]: #@corifeus-projects',
-            postfix: '[//]: #@corifeus-projects:end',
-            replace: replace,
-            files: [
-                'README.md',
-            ]
+            })
+
+            const config = grunt.config.get('cory-replace');
+            config['projects'] = {
+                prefix: '[//]: #@corifeus-projects',
+                postfix: '[//]: #@corifeus-projects:end',
+                replace: replace,
+                files: [
+                    'README.md',
+                ]
+            }
+            grunt.config.set('cory-replace', config)
+            done();
+
+        } catch(e) {
+            done(e)
         }
-        grunt.config.set('cory-replace', config)
-        done();
     });
 
     grunt.registerTask('default', ['cory-load-modules'].concat(builder.config.task.build.js));

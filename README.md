@@ -6,7 +6,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2018.11.24-0  
+# 🎮 Corifeus Matrix v2018.12.9-2  
 
 This is an open-source project. Star this repository, if you like it, or even donate! Thank you so much! :)
 
@@ -23,7 +23,7 @@ All my domains (patrikx3.com and corifeus.com) could have errors, since I am dev
    
 ### Built on Node 
 ``` 
-v11.2.0
+v11.4.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -38,23 +38,110 @@ https://nodejs.org/en/download/package-manager/
                         
 [//]: #@corifeus-header:end
 
-
+## Problems
+* webpack contrib css-loader is broken in 2.0.0
+  * corifeus-builder-angular
+  * gitlist
+  * redis-ui-material
 
 # About
 
-It used to be an ERP system, but it died slowly ...   
-Now, it provides on GitHub microservices and apps.
+Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on GitHub .
+
 
 
 ## Programs including
   
-* [P3X GitList](https://pages.corifeus.com/gitlist)
-* [P3X Redis UI](https://pages.corifeus.com/redis-ui)
-* [P3X Linux Onenote](https://pages.corifeus.com/onenote)
-* [Angular Compile](https://pages.corifeus.com/angular-compile)
-* [OpenWrt Insomnia](https://pages.corifeus.com/openwrt-insomnia)
-* [OpenWrt Redis](https://pages.corifeus.com/openwrt-redis)
-* [Facebook Fortune cookie](https://pages.corifeus.com/fortune-cookie)
+[//]: #@corifeus-projects
+### 📚 P3X Onenote Linux 
+[Wiki](https://pages.corifeus.com/onenote) - [Github](https://github.com/patrikx3/onenote)              
+  
+### 🆖 Angular Dynamic Compile component, that turns a string into a compiled component 
+[Wiki](https://pages.corifeus.com/angular-compile) - [Github](https://github.com/patrikx3/angular-compile)              
+  
+### 📡 P3X Redis UI that uses Socket.IO, AngularJs Material and IORedis with statistics, console - terminal, tree, dark mode, internationalization, multiple connections, web and desktop by Electron. 
+[Wiki](https://pages.corifeus.com/redis-ui) - [Github](https://github.com/patrikx3/redis-ui)              
+  
+### 💾 RAM disk persistent with Systemd timer, service and suspend 
+[Wiki](https://pages.corifeus.com/ramdisk) - [Github](https://github.com/patrikx3/ramdisk)              
+  
+### 🤖 P3X Gitlist - An enhanced elegant, feature rich and modern git ui repository viewer 
+[Wiki](https://pages.corifeus.com/gitlist) - [Github](https://github.com/patrikx3/gitlist)              
+  
+### 🌐 Freenom API - Promise and auto renew expiring domains 
+[Wiki](https://pages.corifeus.com/freenom) - [Github](https://github.com/patrikx3/freenom)              
+  
+### ☕ Latest Stable LEDE Version with many plus packages 
+[Wiki](https://pages.corifeus.com/lede-insomnia) - [Github](https://github.com/patrikx3/lede-insomnia)              
+  
+### ☕ OpenWrt Latest Stable with latest NodeJs, kaloz/mwlwifi's latest WIFI driver, latest Redis stable 
+[Wiki](https://pages.corifeus.com/openwrt-insomnia) - [Github](https://github.com/patrikx3/openwrt-insomnia)              
+  
+### ✨ Debian Stretch / Buster / Bullseye / Testing MongoDB and MongoDB Tools build stable  
+[Wiki](https://pages.corifeus.com/docker-debian-testing-mongodb-stable) - [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)              
+  
+### 👮 AES secure folder encrypt and decrypt 
+[Wiki](https://pages.corifeus.com/aes-folder) - [Github](https://github.com/patrikx3/aes-folder)              
+  
+### 🕸️ Corifeus App Web Pages - Support 
+[Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
+  
+### 🐘 The LEDE Stable MariaDB latest package by Debian 
+[Wiki](https://pages.corifeus.com/lede-mariadb) - [Github](https://github.com/patrikx3/lede-mariadb)              
+  
+### 📡 The LEDE Redis stable version package  
+[Wiki](https://pages.corifeus.com/lede-redis) - [Github](https://github.com/patrikx3/lede-redis)              
+  
+### 📡 The OpenWrt Redis stable version package  
+[Wiki](https://pages.corifeus.com/openwrt-redis) - [Github](https://github.com/patrikx3/openwrt-redis)              
+  
+### 🎮 Corifeus Matrix 
+[Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
+  
+### 🌴 Corifeus Web Material - Amazing 
+[Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
+  
+### 🚧 Grunt Express Server updated with additional options 
+[Wiki](https://pages.corifeus.com/grunt-p3x-express) - [Github](https://github.com/patrikx3/grunt-p3x-express)              
+  
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
+[Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
+  
+### 🏍️ The p3x-redis-ui-server package motor that is will be connected to the p3x-redis-ui-material web user interface. 
+[Wiki](https://pages.corifeus.com/redis-ui-server) - [Github](https://github.com/patrikx3/redis-ui-server)              
+  
+### 🖥️ Corifeus App Server P3X - Spectrum 
+[Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
+  
+### 🏛️ Corifeus Builder Angular - Prototype 
+[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
+  
+### 🏗️ Corifeus Builder - Make 
+[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
+  
+### ❤️ Corifeus Utils - Memory 
+[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
+  
+### 🏁 Corifeus Server - Motor 
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
+  
+### 🌳 Corifeus Web - Forest 
+[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
+  
+### A Facebook Fortune Cookie App 
+[Wiki](https://pages.corifeus.com/fortune-cookie) - [Github](https://github.com/patrikx3/fortune-cookie)              
+  
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via https. 
+[Wiki](https://pages.corifeus.com/redis-ui-material) - [Github](https://github.com/patrikx3/redis-ui-material)              
+  
+### ⌚ SystemD Manager, watchdog, notifier and service 
+[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
+  
+### 💣 Tools 
+[Wiki](https://pages.corifeus.com/tools) - [Github](https://github.com/patrikx3/tools)              
+  
+
+[//]: #@corifeus-projects:end
 
 
 ## History ...
@@ -86,43 +173,10 @@ Travis, Github, NPM, Docker, MIT License, Grunt, ES.NEXT, TypeScript, WebPack, R
 ### Mixed
 Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 
-## Corifeus Projects
-There are `P3X` projects as well.
-
-[//]: #@corifeus-projects
-### 🎮 Corifeus Matrix 
-[Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
-  
-### 🖥️ Corifeus App Server P3X - Spectrum 
-[Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
-  
-### 🕸️ Corifeus App Web Pages - Support 
-[Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
-  
-### 🏗️ Corifeus Builder - Make 
-[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
-  
-### 🏛️ Corifeus Builder Angular - Prototype 
-[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
-  
-### 🏁 Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
-  
-### ❤️ Corifeus Utils - Memory 
-[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
-  
-### 🌳 Corifeus Web - Forest 
-[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
-  
-### 🌴 Corifeus Web Material - Amazing 
-[Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
-  
-
-[//]: #@corifeus-projects:end
 
 
 # Install
-Requires minimum NodeJs v10, GIT and ```npm install -g npm-check-updates yarn grunt-cli```
+Requires minimum NodeJs v11, GIT and ```npm install -g npm-check-updates yarn grunt-cli```
 
 ## Windows / Powershell
 ```powershell
@@ -148,7 +202,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.11.24-0 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.12.9-2 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
