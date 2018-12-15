@@ -6,7 +6,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2018.12.9-2  
+# 🎮 Corifeus Matrix v2018.12.15-1  
 
 This is an open-source project. Star this repository, if you like it, or even donate! Thank you so much! :)
 
@@ -38,17 +38,10 @@ https://nodejs.org/en/download/package-manager/
                         
 [//]: #@corifeus-header:end
 
-## Problems
-* webpack contrib css-loader is broken in 2.0.0
-  * corifeus-builder-angular
-  * gitlist
-  * redis-ui-material
 
 # About
 
 Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on GitHub .
-
-
 
 ## Programs including
   
@@ -71,9 +64,6 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🌐 Freenom API - Promise and auto renew expiring domains 
 [Wiki](https://pages.corifeus.com/freenom) - [Github](https://github.com/patrikx3/freenom)              
   
-### ☕ Latest Stable LEDE Version with many plus packages 
-[Wiki](https://pages.corifeus.com/lede-insomnia) - [Github](https://github.com/patrikx3/lede-insomnia)              
-  
 ### ☕ OpenWrt Latest Stable with latest NodeJs, kaloz/mwlwifi's latest WIFI driver, latest Redis stable 
 [Wiki](https://pages.corifeus.com/openwrt-insomnia) - [Github](https://github.com/patrikx3/openwrt-insomnia)              
   
@@ -85,12 +75,6 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
   
 ### 🕸️ Corifeus App Web Pages - Support 
 [Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
-  
-### 🐘 The LEDE Stable MariaDB latest package by Debian 
-[Wiki](https://pages.corifeus.com/lede-mariadb) - [Github](https://github.com/patrikx3/lede-mariadb)              
-  
-### 📡 The LEDE Redis stable version package  
-[Wiki](https://pages.corifeus.com/lede-redis) - [Github](https://github.com/patrikx3/lede-redis)              
   
 ### 📡 The OpenWrt Redis stable version package  
 [Wiki](https://pages.corifeus.com/openwrt-redis) - [Github](https://github.com/patrikx3/openwrt-redis)              
@@ -113,17 +97,17 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🖥️ Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
   
-### 🏛️ Corifeus Builder Angular - Prototype 
-[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
-  
 ### 🏗️ Corifeus Builder - Make 
 [Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
-### ❤️ Corifeus Utils - Memory 
-[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
+### 🏛️ Corifeus Builder Angular - Prototype 
+[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
   
 ### 🏁 Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
+  
+### ❤️ Corifeus Utils - Memory 
+[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
 ### 🌳 Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
@@ -143,6 +127,13 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 
 [//]: #@corifeus-projects:end
 
+# Webpack repos
+* gitlist
+* redis-ui-material
+* fortune-cookie
+* corifeus-builder-angular
+* sygnus ngivr builder webpack
+* sygnus thermo range client
 
 ## History ...
 ... is a platform for core (auth / REST / CI), CMS, commercial and enterprise resource planning. 
@@ -202,7 +193,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.12.9-2 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.12.15-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
