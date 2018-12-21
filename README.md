@@ -6,7 +6,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2018.12.15-1  
+# 🎮 Corifeus Matrix v2018.12.21-1  
 
 This is an open-source project. Star this repository, if you like it, or even donate! Thank you so much! :)
 
@@ -23,7 +23,7 @@ All my domains (patrikx3.com and corifeus.com) could have errors, since I am dev
    
 ### Built on Node 
 ``` 
-v11.4.0
+v11.5.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -58,7 +58,7 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 💾 RAM disk persistent with Systemd timer, service and suspend 
 [Wiki](https://pages.corifeus.com/ramdisk) - [Github](https://github.com/patrikx3/ramdisk)              
   
-### 🤖 P3X Gitlist - An enhanced elegant, feature rich and modern git ui repository viewer 
+### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer 
 [Wiki](https://pages.corifeus.com/gitlist) - [Github](https://github.com/patrikx3/gitlist)              
   
 ### 🌐 Freenom API - Promise and auto renew expiring domains 
@@ -79,9 +79,6 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 📡 The OpenWrt Redis stable version package  
 [Wiki](https://pages.corifeus.com/openwrt-redis) - [Github](https://github.com/patrikx3/openwrt-redis)              
   
-### 🎮 Corifeus Matrix 
-[Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
-  
 ### 🌴 Corifeus Web Material - Amazing 
 [Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
   
@@ -91,14 +88,14 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
 [Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
   
+### 🎮 Corifeus Matrix 
+[Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
+  
 ### 🏍️ The p3x-redis-ui-server package motor that is will be connected to the p3x-redis-ui-material web user interface. 
 [Wiki](https://pages.corifeus.com/redis-ui-server) - [Github](https://github.com/patrikx3/redis-ui-server)              
   
 ### 🖥️ Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
-  
-### 🏗️ Corifeus Builder - Make 
-[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
@@ -106,14 +103,17 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🏁 Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
-### ❤️ Corifeus Utils - Memory 
-[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
-  
 ### 🌳 Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
   
+### 🏗️ Corifeus Builder - Make 
+[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
+  
 ### A Facebook Fortune Cookie App 
 [Wiki](https://pages.corifeus.com/fortune-cookie) - [Github](https://github.com/patrikx3/fortune-cookie)              
+  
+### ❤️ Corifeus Utils - Memory 
+[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
 ### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via https. 
 [Wiki](https://pages.corifeus.com/redis-ui-material) - [Github](https://github.com/patrikx3/redis-ui-material)              
@@ -133,7 +133,6 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 * fortune-cookie
 * corifeus-builder-angular
 * sygnus ngivr builder webpack
-* sygnus thermo range client
 
 ## History ...
 ... is a platform for core (auth / REST / CI), CMS, commercial and enterprise resource planning. 
@@ -193,7 +192,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.12.15-1 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.12.21-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
