@@ -6,7 +6,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2018.12.31-0  
+# 🎮 Corifeus Matrix v2019.1.1-1  
 
   
 This is an open-source project. Star this repository, if you like it, or even donate! Thank you so much! :)
@@ -87,11 +87,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🌴 Corifeus Web Material - Amazing 
 [Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
   
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
-[Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
-  
 ### 🚧 Grunt Express Server updated with additional options 
 [Wiki](https://pages.corifeus.com/grunt-p3x-express) - [Github](https://github.com/patrikx3/grunt-p3x-express)              
+  
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
+[Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
   
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface. 
 [Wiki](https://pages.corifeus.com/redis-ui-server) - [Github](https://github.com/patrikx3/redis-ui-server)              
@@ -102,17 +102,17 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🏗️ Corifeus Builder - Make 
 [Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
-### 🏛️ Corifeus Builder Angular - Prototype 
-[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
-  
-### 🏁 Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
-  
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
+### 🏛️ Corifeus Builder Angular - Prototype 
+[Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
+  
 ### 🌳 Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
+  
+### 🏁 Corifeus Server - Motor 
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
 ### A Facebook Fortune Cookie App 
 [Wiki](https://pages.corifeus.com/fortune-cookie) - [Github](https://github.com/patrikx3/fortune-cookie)              
@@ -120,14 +120,14 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
 [Wiki](https://pages.corifeus.com/play-ai-ui) - [Github](https://github.com/patrikx3/play-ai-ui)              
   
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
-[Wiki](https://pages.corifeus.com/redis-ui-material) - [Github](https://github.com/patrikx3/redis-ui-material)              
+### ⌚ SystemD Manager, watchdog, notifier and service 
+[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
   
 ### 💣 Tools 
 [Wiki](https://pages.corifeus.com/tools) - [Github](https://github.com/patrikx3/tools)              
   
-### ⌚ SystemD Manager, watchdog, notifier and service 
-[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
+[Wiki](https://pages.corifeus.com/redis-ui-material) - [Github](https://github.com/patrikx3/redis-ui-material)              
   
 
 [//]: #@corifeus-projects:end
@@ -197,7 +197,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2018.12.31-0 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.1-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
