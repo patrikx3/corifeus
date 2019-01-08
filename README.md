@@ -8,10 +8,10 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.1.8-2  
+# 🎮 Corifeus Matrix v2019.1.8-5  
 
   
-This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much! :)
+🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
 
 I run my own server with dynamic IP address, so, it may happen, that the server can not be reachable for about max 15 minutes, due to nature of the dynamic DNS. The server may also be unreachable, when I backup the SSD with Clonzilla (very rarely) or an electrical issue (but this should not happen again). When the server is down, please hang on for 15-30 minutes and the server will be back up.
 
@@ -59,11 +59,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🆖 Angular Dynamic Compile component, that turns a string into a compiled component 
 [Wiki](https://pages.corifeus.com/angular-compile) - [Github](https://github.com/patrikx3/angular-compile)              
   
-### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer 
-[Wiki](https://pages.corifeus.com/gitlist) - [Github](https://github.com/patrikx3/gitlist)              
-  
 ### 💾 RAM disk persistent with Systemd timer, service and suspend 
 [Wiki](https://pages.corifeus.com/ramdisk) - [Github](https://github.com/patrikx3/ramdisk)              
+  
+### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer 
+[Wiki](https://pages.corifeus.com/gitlist) - [Github](https://github.com/patrikx3/gitlist)              
   
 ### 🌐 Freenom API - Promise and auto renew expiring domains 
 [Wiki](https://pages.corifeus.com/freenom) - [Github](https://github.com/patrikx3/freenom)              
@@ -74,14 +74,14 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### ✨ Debian Stretch / Buster / Bullseye / Testing MongoDB and MongoDB Tools build stable  
 [Wiki](https://pages.corifeus.com/docker-debian-testing-mongodb-stable) - [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)              
   
+### 📡 The OpenWrt Redis stable version package  
+[Wiki](https://pages.corifeus.com/openwrt-redis) - [Github](https://github.com/patrikx3/openwrt-redis)              
+  
 ### 👮 AES secure folder encrypt and decrypt 
 [Wiki](https://pages.corifeus.com/aes-folder) - [Github](https://github.com/patrikx3/aes-folder)              
   
 ### 🕸️ Corifeus App Web Pages - Support 
 [Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
-  
-### 📡 The OpenWrt Redis stable version package  
-[Wiki](https://pages.corifeus.com/openwrt-redis) - [Github](https://github.com/patrikx3/openwrt-redis)              
   
 ### 🎮 Corifeus Matrix 
 [Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
@@ -89,11 +89,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🌴 Corifeus Web Material - Amazing 
 [Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
   
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
-[Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
-  
 ### 🚧 Grunt Express Server updated with additional options 
 [Wiki](https://pages.corifeus.com/grunt-p3x-express) - [Github](https://github.com/patrikx3/grunt-p3x-express)              
+  
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
+[Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
   
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface. 
 [Wiki](https://pages.corifeus.com/redis-ui-server) - [Github](https://github.com/patrikx3/redis-ui-server)              
@@ -104,17 +104,17 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🏗️ Corifeus Builder - Make 
 [Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
-### ❤️ Corifeus Utils - Memory 
-[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
-  
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
+  
+### 🏁 Corifeus Server - Motor 
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
 ### 🌳 Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
   
-### 🏁 Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
+### ❤️ Corifeus Utils - Memory 
+[Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
 ### A Facebook Fortune Cookie App 
 [Wiki](https://pages.corifeus.com/fortune-cookie) - [Github](https://github.com/patrikx3/fortune-cookie)              
@@ -122,11 +122,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
 [Wiki](https://pages.corifeus.com/play-ai-ui) - [Github](https://github.com/patrikx3/play-ai-ui)              
   
-### ⌚ SystemD Manager, watchdog, notifier and service 
-[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
-  
 ### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
 [Wiki](https://pages.corifeus.com/redis-ui-material) - [Github](https://github.com/patrikx3/redis-ui-material)              
+  
+### ⌚ SystemD Manager, watchdog, notifier and service 
+[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
   
 ### 💣 Tools 
 [Wiki](https://pages.corifeus.com/tools) - [Github](https://github.com/patrikx3/tools)              
@@ -199,7 +199,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.8-2 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.8-5 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
