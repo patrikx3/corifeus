@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.1.8-5  
+# 🎮 Corifeus Matrix v2019.1.9-1  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
@@ -83,11 +83,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🕸️ Corifeus App Web Pages - Support 
 [Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
   
-### 🎮 Corifeus Matrix 
-[Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
-  
 ### 🌴 Corifeus Web Material - Amazing 
 [Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
+  
+### 🎮 Corifeus Matrix 
+[Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
   
 ### 🚧 Grunt Express Server updated with additional options 
 [Wiki](https://pages.corifeus.com/grunt-p3x-express) - [Github](https://github.com/patrikx3/grunt-p3x-express)              
@@ -101,20 +101,17 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🖥️ Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
   
-### 🏗️ Corifeus Builder - Make 
-[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
-  
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
   
 ### 🏁 Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
-### 🌳 Corifeus Web - Forest 
-[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
-  
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
+  
+### 🌳 Corifeus Web - Forest 
+[Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
   
 ### A Facebook Fortune Cookie App 
 [Wiki](https://pages.corifeus.com/fortune-cookie) - [Github](https://github.com/patrikx3/fortune-cookie)              
@@ -130,6 +127,9 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
   
 ### 💣 Tools 
 [Wiki](https://pages.corifeus.com/tools) - [Github](https://github.com/patrikx3/tools)              
+  
+### 🏗️ Corifeus Builder - Make 
+[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
 
 [//]: #@corifeus-projects:end
@@ -199,16 +199,16 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.8-5 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.9-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
 
 ## P3X Sponsors
 
-[IntelliJ - The most intelligent Java IDE](https://www.jetbrains.com)
+[IntelliJ - The most intelligent Java IDE](https://www.jetbrains.com/?from=patrikx3)
   
-[![JetBrains](https://cdn.corifeus.com/assets/svg/jetbrains-logo.svg)](https://www.jetbrains.com/) [![NoSQLBooster](https://cdn.corifeus.com/assets/png/nosqlbooster-70x70.png)](https://www.nosqlbooster.com/)
+[![JetBrains](https://cdn.corifeus.com/assets/svg/jetbrains-logo.svg)](https://www.jetbrains.com/?from=patrikx3) [![NoSQLBooster](https://cdn.corifeus.com/assets/png/nosqlbooster-70x70.png)](https://www.nosqlbooster.com/)
 
 [The Smartest IDE for MongoDB](https://www.nosqlbooster.com)
   
