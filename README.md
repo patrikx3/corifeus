@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.1.9-1  
+# 🎮 Corifeus Matrix v2019.1.19-1  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
@@ -27,7 +27,7 @@ All my domains (patrikx3.com and corifeus.com) could have errors, since I am dev
    
 ### Built on Node 
 ``` 
-v11.6.0
+v11.7.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -71,35 +71,41 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### ☕ OpenWrt Latest Stable with latest NodeJs, kaloz/mwlwifi's latest WIFI driver, latest Redis stable 
 [Wiki](https://pages.corifeus.com/openwrt-insomnia) - [Github](https://github.com/patrikx3/openwrt-insomnia)              
   
-### ✨ Debian Stretch / Buster / Bullseye / Testing MongoDB and MongoDB Tools build stable  
+### ✨ Debian Buster / Bullseye / SID / Testing MongoDB and MongoDB Tools build stable  
 [Wiki](https://pages.corifeus.com/docker-debian-testing-mongodb-stable) - [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)              
   
 ### 📡 The OpenWrt Redis stable version package  
 [Wiki](https://pages.corifeus.com/openwrt-redis) - [Github](https://github.com/patrikx3/openwrt-redis)              
   
-### 👮 AES secure folder encrypt and decrypt 
-[Wiki](https://pages.corifeus.com/aes-folder) - [Github](https://github.com/patrikx3/aes-folder)              
-  
 ### 🕸️ Corifeus App Web Pages - Support 
 [Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
   
-### 🌴 Corifeus Web Material - Amazing 
-[Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
+### 👮 AES secure folder encrypt and decrypt 
+[Wiki](https://pages.corifeus.com/aes-folder) - [Github](https://github.com/patrikx3/aes-folder)              
   
 ### 🎮 Corifeus Matrix 
 [Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
   
+### 🌴 Corifeus Web Material - Amazing 
+[Wiki](https://pages.corifeus.com/corifeus-web-material) - [Github](https://github.com/patrikx3/corifeus-web-material)              
+  
 ### 🚧 Grunt Express Server updated with additional options 
 [Wiki](https://pages.corifeus.com/grunt-p3x-express) - [Github](https://github.com/patrikx3/grunt-p3x-express)              
-  
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
-[Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
   
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface. 
 [Wiki](https://pages.corifeus.com/redis-ui-server) - [Github](https://github.com/patrikx3/redis-ui-server)              
   
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
+[Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
+  
+### ⌚ SystemD Manager, watchdog, notifier and service 
+[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
+  
 ### 🖥️ Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
+  
+### 🏗️ Corifeus Builder - Make 
+[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
@@ -122,14 +128,8 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
 [Wiki](https://pages.corifeus.com/redis-ui-material) - [Github](https://github.com/patrikx3/redis-ui-material)              
   
-### ⌚ SystemD Manager, watchdog, notifier and service 
-[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
-  
 ### 💣 Tools 
 [Wiki](https://pages.corifeus.com/tools) - [Github](https://github.com/patrikx3/tools)              
-  
-### 🏗️ Corifeus Builder - Make 
-[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
 
 [//]: #@corifeus-projects:end
@@ -199,7 +199,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.9-1 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.19-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
