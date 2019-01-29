@@ -8,14 +8,14 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.1.23-1  
+# 🎮 Corifeus Matrix v2019.1.29-1  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
 
-I run my own server with dynamic IP address, so, it may happen, that the server can not be reachable for about max 15 minutes, due to nature of the dynamic DNS. The server may also be unreachable, when I backup the SSD with Clonzilla (very rarely) or an electrical issue (but this should not happen again). When the server is down, please hang on for 15-30 minutes and the server will be back up.
+Possible, this mini server, rarely, is down, please hang on for 15-30 minutes and the server will be back up.
 
-All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://corifeus.com)) could have errors, since I am developing in my free time. However, it is usually stable.
+All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://corifeus.com)) could have minor errors, since I am developing in my free time. However, it is usually stable.
 
 **Bugs are evident™ - MATRIX️**  
     
@@ -27,7 +27,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
    
 ### Built on Node 
 ``` 
-v11.7.0
+v11.8.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -53,7 +53,7 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 📚 P3X Onenote Linux 
 [Wiki](https://pages.corifeus.com/onenote) - [Github](https://github.com/patrikx3/onenote)              
   
-### 📡 P3X Redis UI that uses Socket.IO, AngularJs Material and IORedis with statistics, console - terminal, tree, dark mode, internationalization, multiple connections, web and desktop (Electron) 
+### 📡 P3X Redis UI can work with huge key sets, is functional and works on the web and desktop (Electron) 
 [Wiki](https://pages.corifeus.com/redis-ui) - [Github](https://github.com/patrikx3/redis-ui)              
   
 ### 🆖 Angular Dynamic Compile component, that turns a string into a compiled component 
@@ -95,14 +95,20 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
 [Wiki](https://pages.corifeus.com/html-pdf) - [Github](https://github.com/patrikx3/html-pdf)              
   
-### ⌚ SystemD Manager, watchdog, notifier and service 
-[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
-  
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface. 
 [Wiki](https://pages.corifeus.com/redis-ui-server) - [Github](https://github.com/patrikx3/redis-ui-server)              
   
+### ⌚ SystemD Manager, watchdog, notifier and service 
+[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
+  
+### 🍶 Verdaccio CLI 
+[Wiki](https://pages.corifeus.com/verdaccio-cli) - [Github](https://github.com/patrikx3/verdaccio-cli)              
+  
 ### 🖥️ Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
+  
+### 🏗️ Corifeus Builder - Make 
+[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
@@ -119,9 +125,6 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### A Facebook Fortune Cookie App 
 [Wiki](https://pages.corifeus.com/fortune-cookie) - [Github](https://github.com/patrikx3/fortune-cookie)              
   
-### 🏗️ Corifeus Builder - Make 
-[Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
-  
 ### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
 [Wiki](https://pages.corifeus.com/play-ai-ui) - [Github](https://github.com/patrikx3/play-ai-ui)              
   
@@ -130,9 +133,6 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
   
 ### 💣 Tools 
 [Wiki](https://pages.corifeus.com/tools) - [Github](https://github.com/patrikx3/tools)              
-  
-### 🍶 Verdaccio CLI 
-[Wiki](https://pages.corifeus.com/verdaccio-cli) - [Github](https://github.com/patrikx3/verdaccio-cli)              
   
 
 [//]: #@corifeus-projects:end
@@ -202,7 +202,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.23-1 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.29-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
