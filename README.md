@@ -2,13 +2,13 @@
 
  
 
-[![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Build Status](https://api.travis-ci.com/patrikx3/corifeus.svg?branch=master)](https://travis-ci.com/patrikx3/corifeus) 
+[![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://paypal.me/patrikx3)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Build Status](https://api.travis-ci.com/patrikx3/corifeus.svg?branch=master)](https://travis-ci.com/patrikx3/corifeus) 
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m780749701-41bcade28c1ea8154eda7cca.svg)](https://uptimerobot.patrikx3.com/)
 
   
  
 ---
-# 🎮 Corifeus Matrix v2019.1.29-1  
+# 🎮 Corifeus Matrix v2019.2.4-1  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
@@ -27,7 +27,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
    
 ### Built on Node 
 ``` 
-v11.8.0
+v11.9.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -98,11 +98,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface. 
 [Wiki](https://pages.corifeus.com/redis-ui-server) - [Github](https://github.com/patrikx3/redis-ui-server)              
   
-### ⌚ SystemD Manager, watchdog, notifier and service 
-[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
-  
 ### 🍶 Verdaccio CLI 
 [Wiki](https://pages.corifeus.com/verdaccio-cli) - [Github](https://github.com/patrikx3/verdaccio-cli)              
+  
+### ⌚ SystemD Manager, watchdog, notifier and service 
+[Wiki](https://pages.corifeus.com/systemd-manager) - [Github](https://github.com/patrikx3/systemd-manager)              
   
 ### 🖥️ Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
@@ -113,11 +113,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
   
-### 🏁 Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
-  
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
+  
+### 🏁 Corifeus Server - Motor 
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
 ### 🌳 Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
@@ -202,7 +202,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.1.29-1 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.2.4-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
