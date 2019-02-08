@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.2.6-1  
+# 🎮 Corifeus Matrix v2019.2.8-1  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
@@ -77,11 +77,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 📡 The OpenWrt Redis stable version package  
 [Wiki](https://pages.corifeus.com/openwrt-redis) - [Github](https://github.com/patrikx3/openwrt-redis)              
   
-### 🕸️ Corifeus App Web Pages - Support 
-[Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
-  
 ### 👮 AES secure folder encrypt and decrypt 
 [Wiki](https://pages.corifeus.com/aes-folder) - [Github](https://github.com/patrikx3/aes-folder)              
+  
+### 🕸️ Corifeus App Web Pages - Support 
+[Wiki](https://pages.corifeus.com/corifeus-app-web-pages) - [Github](https://github.com/patrikx3/corifeus-app-web-pages)              
   
 ### 🎮 Corifeus Matrix 
 [Wiki](https://pages.corifeus.com/corifeus) - [Github](https://github.com/patrikx3/corifeus)              
@@ -119,11 +119,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
   
-### A Facebook Fortune Cookie App 
-[Wiki](https://pages.corifeus.com/fortune-cookie) - [Github](https://github.com/patrikx3/fortune-cookie)              
-  
 ### 🌳 Corifeus Web - Forest 
 [Wiki](https://pages.corifeus.com/corifeus-web) - [Github](https://github.com/patrikx3/corifeus-web)              
+  
+### A Facebook Fortune Cookie App 
+[Wiki](https://pages.corifeus.com/fortune-cookie) - [Github](https://github.com/patrikx3/fortune-cookie)              
   
 ### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
 [Wiki](https://pages.corifeus.com/play-ai-ui) - [Github](https://github.com/patrikx3/play-ai-ui)              
@@ -202,7 +202,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.2.6-1 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.2.8-1 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
