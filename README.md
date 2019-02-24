@@ -2,13 +2,13 @@
 
  
 
-[![Corifeus @ Facebook](https://img.shields.io/badge/Facebook-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://paypal.me/patrikx3)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Build Status](https://api.travis-ci.com/patrikx3/corifeus.svg?branch=master)](https://travis-ci.com/patrikx3/corifeus) 
+[![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://paypal.me/patrikx3) [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Corifeus @ Facebook](https://img.shields.io/badge/Facebook-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)  [![Build Status](https://api.travis-ci.com/patrikx3/corifeus.svg?branch=master)](https://travis-ci.com/patrikx3/corifeus) 
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m780749701-41bcade28c1ea8154eda7cca.svg)](https://uptimerobot.patrikx3.com/)
 
   
  
 ---
-# 🎮 Corifeus Matrix v2019.2.15-1  
+# 🎮 Corifeus Matrix v2019.2.24-2  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
@@ -59,11 +59,11 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🆖 Angular Dynamic Compile component, that turns a string into a compiled component 
 [Wiki](https://pages.corifeus.com/angular-compile) - [Github](https://github.com/patrikx3/angular-compile)              
   
-### 💾 RAM disk persistent with Systemd timer, service and suspend 
-[Wiki](https://pages.corifeus.com/ramdisk) - [Github](https://github.com/patrikx3/ramdisk)              
-  
 ### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer 
 [Wiki](https://pages.corifeus.com/gitlist) - [Github](https://github.com/patrikx3/gitlist)              
+  
+### 💾 Linux RAM disk persistent with Systemd timer, service and suspend 
+[Wiki](https://pages.corifeus.com/ramdisk) - [Github](https://github.com/patrikx3/ramdisk)              
   
 ### 🌐 Freenom API - Promise and auto renew expiring domains 
 [Wiki](https://pages.corifeus.com/freenom) - [Github](https://github.com/patrikx3/freenom)              
@@ -71,7 +71,7 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### ☕ OpenWrt Latest Stable with latest NodeJs, kaloz/mwlwifi's latest WIFI driver, latest Redis stable 
 [Wiki](https://pages.corifeus.com/openwrt-insomnia) - [Github](https://github.com/patrikx3/openwrt-insomnia)              
   
-### ✨ Debian Buster / Bullseye / SID / Testing MongoDB and MongoDB Tools build stable  
+### ✨ Debian Buster / Bullseye / Bookworm / Testing / SID MongoDB and MongoDB Tools build stable  
 [Wiki](https://pages.corifeus.com/docker-debian-testing-mongodb-stable) - [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)              
   
 ### 📡 The OpenWrt Redis stable version package  
@@ -107,14 +107,14 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🖥️ Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) - [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)              
   
-### 🏁 Corifeus Server - Motor 
-[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
-  
 ### 🏗️ Corifeus Builder - Make 
 [Wiki](https://pages.corifeus.com/corifeus-builder) - [Github](https://github.com/patrikx3/corifeus-builder)              
   
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) - [Github](https://github.com/patrikx3/corifeus-builder-angular)              
+  
+### 🏁 Corifeus Server - Motor 
+[Wiki](https://pages.corifeus.com/corifeus-server) - [Github](https://github.com/patrikx3/corifeus-server)              
   
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) - [Github](https://github.com/patrikx3/corifeus-utils)              
@@ -202,9 +202,9 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.2.15-1 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.2.24-2 
 
-[![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
+[![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
 
 ## P3X Sponsors
