@@ -38,7 +38,7 @@ module.exports = (grunt) => {
                 const pkg = sortedObject[key]
                 const desc = pkg.description ;
                 replace += `### ${desc} 
-[Wiki](https://pages.corifeus.com/${pkg.corifeus.reponame}) - [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})              
+[Wiki](https://pages.corifeus.com/${pkg.corifeus.reponame}) | [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})               
   
 `
             })
