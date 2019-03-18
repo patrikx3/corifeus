@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.3.10-1  
+# 🎮 Corifeus Matrix v2019.3.18-1  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
@@ -27,7 +27,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
    
 ### Built on Node 
 ``` 
-v11.11.0
+v11.12.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -95,17 +95,14 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
 [Wiki](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
   
+### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface 
+[Wiki](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)               
+  
 ### ⌚ SystemD Manager, watchdog, notifier and service 
 [Wiki](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
   
 ### 🍶 Verdaccio CLI 
 [Wiki](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
-  
-### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface 
-[Wiki](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)               
-  
-### 🖥️ Corifeus App Server P3X - Spectrum 
-[Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)               
   
 ### 🏗️ Corifeus Builder - Make 
 [Wiki](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
@@ -116,6 +113,9 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 🏁 Corifeus Server - Motor 
 [Wiki](https://pages.corifeus.com/corifeus-server) | [Github](https://github.com/patrikx3/corifeus-server)               
   
+### 🖥️ Corifeus App Server P3X - Spectrum 
+[Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)               
+  
 ### ❤️ Corifeus Utils - Memory 
 [Wiki](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
   
@@ -125,14 +125,14 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### A Facebook Fortune Cookie App 
 [Wiki](https://pages.corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)               
   
-### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
-[Wiki](https://pages.corifeus.com/play-ai-ui) | [Github](https://github.com/patrikx3/play-ai-ui)               
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
+[Wiki](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
   
 ### 💣 Tools 
 [Wiki](https://pages.corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)               
   
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
-[Wiki](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
+### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
+[Wiki](https://pages.corifeus.com/play-ai-ui) | [Github](https://github.com/patrikx3/play-ai-ui)               
   
 
 [//]: #@corifeus-projects:end
@@ -202,7 +202,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.3.10-1 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.3.18-1 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
