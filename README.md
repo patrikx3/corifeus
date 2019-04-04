@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.4.3  
+# 🎮 Corifeus Matrix v2019.4.5  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
@@ -29,7 +29,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
    
 ### Built on Node 
 ``` 
-v11.12.0
+v11.13.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -97,20 +97,20 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
 [Wiki](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
   
-### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface 
-[Wiki](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)               
-  
 ### ⌚ SystemD Manager, watchdog, notifier and service 
 [Wiki](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
+  
+### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface 
+[Wiki](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)               
   
 ### 🍶 Verdaccio CLI 
 [Wiki](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
   
-### 🏗️ Corifeus Builder - Make 
-[Wiki](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
-  
 ### 🖥️ Corifeus App Server P3X - Spectrum 
 [Wiki](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)               
+  
+### 🏗️ Corifeus Builder - Make 
+[Wiki](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
   
 ### 🏛️ Corifeus Builder Angular - Prototype 
 [Wiki](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
@@ -127,27 +127,19 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### A Facebook Fortune Cookie App 
 [Wiki](https://pages.corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)               
   
+### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
+[Wiki](https://pages.corifeus.com/play-ai-ui) | [Github](https://github.com/patrikx3/play-ai-ui)               
+  
 ### 💣 Tools 
 [Wiki](https://pages.corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)               
   
 ### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
 [Wiki](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
   
-### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
-[Wiki](https://pages.corifeus.com/play-ai-ui) | [Github](https://github.com/patrikx3/play-ai-ui)               
-  
 
 [//]: #@corifeus-projects:end
 
-# Webpack repos
-* gitlist
-* redis-ui-material
-* fortune-cookie
-* corifeus-builder-angular
-* sygnus ngivr builder webpack
-
 ## History ...
-... is a platform for core (auth / REST / CI), CMS, commercial and enterprise resource planning. 
 
 #### [The name of the platform.](https://en.wikipedia.org/wiki/Coryphaeus)
 
@@ -155,10 +147,12 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 
 #### [Architecture](artifacts/readme/arthictecture/overview.md)
 
+<!--
 #### [Design Patterns](artifacts/readme/patterns.md)
+-->
 
 ## Scenarios
-web, android, ios, cli, rest, cordova, electron
+Web, Android, iOs, Cli, Rest, Socket.IO, Electron, Ionic
 
 ## Code names
 Linux, Logico, Vader, Spawn, Mafia, Insomnia, MissOut, Support, Tempo, Matrix, CIA, Amazing, Next, WwkhtmlTox, Last, Forest, Memory, Motor, Make, Prototype, Spectrum, Flap, Split, Fireball, Reverse, 2Q, Robo8X, Sake, **Venture, Backwash, Howling, Crusoe, Tracktor, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Thunder Cluster** 
@@ -166,19 +160,14 @@ Linux, Logico, Vader, Spawn, Mafia, Insomnia, MissOut, Support, Tempo, Matrix, C
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
 
-## Colors
-Brown and green, like the forest and blue like the sky.
-
 ## Frameworks, B2B
 Travis, Github, NPM, Docker, MIT License, Grunt, ES.NEXT, TypeScript, WebPack, ReactiveX
 
 ### Mixed
 Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 
-
-
 # Install
-Requires minimum NodeJs v11, GIT and ```npm install -g npm-check-updates yarn grunt-cli```
+Requires NodeJs latest version, GIT and ```npm install -g npm-check-updates yarn grunt-cli npm```
 
 ## Windows / Powershell
 ```powershell
@@ -204,7 +193,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.4.3 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.4.5 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
