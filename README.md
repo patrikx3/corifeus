@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.4.15  
+# 🎮 Corifeus Matrix v2019.4.102  
 
   
 🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
@@ -29,7 +29,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
    
 ### Built on Node 
 ``` 
-v11.14.0
+v12.3.1
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -47,7 +47,7 @@ https://nodejs.org/en/download/package-manager/
 
 # About
 
-Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on GitHub.
+Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ## Programs including
   
@@ -108,18 +108,9 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
  
 
 
-### ☕ OpenWrt with latest NodeJs, Redis and Linksys WRT Wifi 
+### ☕ OpenWrt with latest NodeJs and Linksys WRT Wifi 
 
 [README](https://pages.corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)               
-
----
-                
- 
-
-
-### 📡 OpenWrt Redis stable version 
-
-[README](https://pages.corifeus.com/openwrt-redis) | [Github](https://github.com/patrikx3/openwrt-redis)               
 
 ---
                 
@@ -135,18 +126,27 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
  
 
 
-### 👮 AES secure folder encrypt and decrypt 
+### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface 
 
-[README](https://pages.corifeus.com/aes-folder) | [Github](https://github.com/patrikx3/aes-folder)               
+[README](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)               
 
 ---
                 
  
 
 
-### 🕸️ Corifeus App Web Pages - Support 
+### 🕸️ Corifeus App Web Pages 
 
 [README](https://pages.corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)               
+
+---
+                
+ 
+
+
+### 🍶 Verdaccio CLI 
+
+[README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
 
 ---
                 
@@ -162,7 +162,7 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
  
 
 
-### 🌴 Corifeus Web Material - Amazing 
+### 🌴 Corifeus Web Material 
 
 [README](https://pages.corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)               
 
@@ -189,15 +189,6 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
  
 
 
-### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface 
-
-[README](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)               
-
----
-                
- 
-
-
 ### ⌚ SystemD Manager, watchdog, notifier and service 
 
 [README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
@@ -207,25 +198,16 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
  
 
 
-### 🍶 Verdaccio CLI 
+### 🏗️ Corifeus Builder 
 
-[README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
-
----
-                
- 
-
-
-### 🖥️ Corifeus App Server P3X - Spectrum 
-
-[README](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)               
+[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
 
 ---
                 
  
 
 
-### 🏛️ Corifeus Builder Angular - Prototype 
+### 🏛️ Corifeus Builder Angular 
 
 [README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
 
@@ -234,7 +216,7 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
  
 
 
-### 🏁 Corifeus Server - Motor 
+### 🏁 Corifeus Server 
 
 [README](https://pages.corifeus.com/corifeus-server) | [Github](https://github.com/patrikx3/corifeus-server)               
 
@@ -243,16 +225,16 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
  
 
 
-### ❤️ Corifeus Utils - Memory 
+### 🖥️ Corifeus App Server P3X 
 
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
+[README](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)               
 
 ---
                 
  
 
 
-### 🌳 Corifeus Web - Forest 
+### 🌳 Corifeus Web 
 
 [README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
 
@@ -270,27 +252,9 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
  
 
 
-### 🤖 P3X Experimental AI / machine learning / tensors based UI playground 
+### ❤️ Corifeus Utils 
 
-[README](https://pages.corifeus.com/play-ai-ui) | [Github](https://github.com/patrikx3/play-ai-ui)               
-
----
-                
- 
-
-
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
-
-[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
-
----
-                
- 
-
-
-### 🏗️ Corifeus Builder - Make 
-
-[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
+[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
 
 ---
                 
@@ -300,6 +264,15 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 ### 💣 Tools 
 
 [README](https://pages.corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)               
+
+---
+                
+ 
+
+
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
+
+[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
 
 ---
                 
@@ -323,7 +296,7 @@ Corifeus Matrix provides microservices, web and Electron apps (as well Ionic) on
 Web, Android, iOs, Cli, Rest, Socket.IO, Electron, Ionic
 
 ## Code names
-Linux, Logico, Vader, Spawn, Mafia, Insomnia, MissOut, Support, Tempo, Matrix, CIA, Amazing, Next, WwkhtmlTox, Last, Forest, Memory, Motor, Make, Prototype, Spectrum, Flap, Split, Fireball, Reverse, 2Q, Robo8X, Sake, **Venture, Backwash, Howling, Crusoe, Tracktor, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Mafia, Hurricane, Nanometer, Elektra, Tension, Lazy, DoinIt, Fresh, Breeze, Breaking, Turbo, Underground, Q, Thunder Cluster** 
+Linux, Logico, Vader, Spawn, Mafia, Insomnia, MissOut, Support, Tempo, Matrix, CIA, Amazing, Next, Last, Forest, Memory, Motor, Make, Prototype, Spectrum, Fireball, Reverse, 2Q, Robo8X, Sake, Lazy, Breaking, Venture, **Backwash, Howling, Crusoe, Tracktor, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Mafia, Hurricane, Nanometer, Elektra, DoinIt, Fresh, Breeze, Turbo, Underground, Q, Thunder Cluster** 
 
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
@@ -361,7 +334,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.4.15 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.4.102 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
