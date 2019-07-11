@@ -8,15 +8,9 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.4.104  
+# 🎮 Corifeus Matrix v2019.10.102  
 
   
-🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
-
-Possible, this server, rarely, is down, please, hang on for 15-30 minutes and the server will be back up.
-
-All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://corifeus.com)) could have minor errors, since I am developing in my free time. However, it is usually stable.
-
 **Note about versioning:** Versions are cut in Major.Minor.Patch schema. Major is always the current year. Minor is either 4 (January - June) or 10 (July - December). Patch is incremental by every build. If there is a breaking change, it should be noted in the readme.
 
 **Bugs are evident™ - MATRIX️**  
@@ -24,12 +18,12 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ### Node Version Requirement 
 ``` 
->=10.13.0 
+>=10.16.0 
 ```  
    
 ### Built on Node 
 ``` 
-v12.4.0
+v12.6.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -108,7 +102,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### ☕ OpenWrt with latest NodeJs and Linksys WRT Wifi 
+### ☕ OpenWrt with latest NodeJs for Linksys WRT 
 
 [README](https://pages.corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)               
 
@@ -144,18 +138,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🍶 Verdaccio CLI 
+### 🎮 Corifeus Matrix 
 
-[README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
+[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)               
 
 ---
                 
  
 
 
-### 🎮 Corifeus Matrix 
+### 🍶 Verdaccio CLI 
 
-[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)               
+[README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
 
 ---
                 
@@ -171,6 +165,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
+
+[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
+
+---
+                
+ 
+
+
 ### 🚧 Grunt Express Server updated with additional options 
 
 [README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)               
@@ -180,9 +183,9 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
 
-[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
+[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
 
 ---
                 
@@ -207,6 +210,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
+### 🏛️ Corifeus Builder Angular 
+
+[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
+
+---
+                
+ 
+
+
 ### 🏗️ Corifeus Builder 
 
 [README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
@@ -216,9 +228,9 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🏛️ Corifeus Builder Angular 
+### 🌳 Corifeus Web 
 
-[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
+[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
 
 ---
                 
@@ -243,27 +255,9 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🌳 Corifeus Web 
-
-[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
-
----
-                
- 
-
-
 ### 🥠 A Facebook Fortune Cookie App 
 
 [README](https://pages.corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)               
-
----
-                
- 
-
-
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
-
-[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
 
 ---
                 
@@ -334,7 +328,15 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.4.104 
+🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
+
+Possible, this server, rarely, is down, please, hang on for 15-30 minutes and the server will be back up.
+
+All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://corifeus.com)) could have minor errors, since I am developing in my free time. However, it is usually stable.
+
+
+
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.102 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 

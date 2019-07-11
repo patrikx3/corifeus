@@ -8,13 +8,11 @@
 
 # Code style
 
-## Case we use
+## Cases we use
 
 ```camelCase = theFirstIsSmallTheRestIsCapital```  
 
 ```kabeb-case = meaning-only-lower-case-and-a-z-and-dash-and-numbers```  
-  
-## Case we do not use  
   
 ```PascalCase = JustAlphaAndAlwaysCapitalWords``` 
   
@@ -114,7 +112,7 @@ function justSimpleFunction() {
 
 ## Prototype based class
 
-``` camelCase ```
+I prefer ``` camelCase ``` , though `PascalCase` is fine.
 
 ```js
 // JavaScript
@@ -133,9 +131,7 @@ prototypeBasedClass.prototype.instanceVariable = true;
 
 ## Classes
 
-Usually, we do not use OOP in JavaScript, for us, it is too functional to use OOP instead. Only TypeScript uses a lot of OOP. JavaScript is much functional.  
-
-We like simple solutions, instead of being too strict programming, of course JavaScript allows some strict functions... 🙈
+I rarely use classes, but sometimes it is good, I prefer `camelCase` but for classes it is ok to use `PascalCase`.
 
 ``` camelCase ```
 
@@ -175,7 +171,15 @@ const objects = {
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.4.104 
+🙏 This is an open-source project. Star this repository, if you like it, or even donate to maintain the servers and the development. Thank you so much!
+
+Possible, this server, rarely, is down, please, hang on for 15-30 minutes and the server will be back up.
+
+All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://corifeus.com)) could have minor errors, since I am developing in my free time. However, it is usually stable.
+
+
+
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.102 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
