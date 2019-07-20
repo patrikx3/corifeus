@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.10.109  
+# 🎮 Corifeus Matrix v2019.10.111  
 
   
 **Note about versioning:** Versions are cut in Major.Minor.Patch schema. Major is always the current year. Minor is either 4 (January - June) or 10 (July - December). Patch is incremental by every build. If there is a breaking change, it should be noted in the readme.
@@ -219,15 +219,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🏁 Corifeus Server 
-
-[README](https://pages.corifeus.com/corifeus-server) | [Github](https://github.com/patrikx3/corifeus-server)               
-
----
-                
- 
-
-
 ### 🏛️ Corifeus Builder Angular 
 
 [README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
@@ -336,7 +327,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
   
 ---
   
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.109 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.111 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
