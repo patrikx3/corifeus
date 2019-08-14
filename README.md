@@ -8,10 +8,9 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.10.123  
+# 🎮 Corifeus Matrix v2019.10.126  
 
   
-**Note about versioning:** Versions are cut in Major.Minor.Patch schema. Major is always the current year. Minor is either 4 (January - June) or 10 (July - December). Patch is incremental by every build. If there is a breaking change, it should be noted in the readme.
 
 **Bugs are evident™ - MATRIX️**  
     
@@ -48,7 +47,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 [//]: #@corifeus-projects
 
 
-### 📚 P3X OneNote Linux 
+### P3X OneNote Linux 
 
 [README](https://pages.corifeus.com/onenote) | [Github](https://github.com/patrikx3/onenote)               
 
@@ -147,6 +146,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
+
+[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
+
+---
+                
+ 
+
+
 ### 🍶 Verdaccio CLI 
 
 [README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
@@ -183,27 +191,9 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
-
-[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
-
----
-                
- 
-
-
 ### ⌚ SystemD Manager, watchdog, notifier and service 
 
 [README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
-
----
-                
- 
-
-
-### 🏗️ Corifeus Builder 
-
-[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
 
 ---
                 
@@ -228,18 +218,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🌳 Corifeus Web 
+### ❤️ Corifeus Utils 
 
-[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
+[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
 
 ---
                 
  
 
 
-### ❤️ Corifeus Utils 
+### 🌳 Corifeus Web 
 
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
+[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
 
 ---
                 
@@ -258,6 +248,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### 💣 Tools 
 
 [README](https://pages.corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)               
+
+---
+                
+ 
+
+
+### 🏗️ Corifeus Builder 
+
+[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
 
 ---
                 
@@ -333,10 +332,13 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 Possible, this server, rarely, is down, please, hang on for 15-30 minutes and the server will be back up.
 
 All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://corifeus.com)) could have minor errors, since I am developing in my free time. However, it is usually stable.
-  
+    
+**Note about versioning:** Versions are cut in Major.Minor.Patch schema. Major is always the current year. Minor is either 4 (January - June) or 10 (July - December). Patch is incremental by every build. If there is a breaking change, it should be noted in the readme.  
+
+
 ---
   
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.123 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.126 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
