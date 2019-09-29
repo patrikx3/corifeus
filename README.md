@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.10.130  
+# 🎮 Corifeus Matrix v2019.10.132  
 
   
 
@@ -182,18 +182,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
+### 🚧 Grunt Express Server updated with additional options 
 
-[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
+[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)               
 
 ---
                 
  
 
 
-### 🚧 Grunt Express Server updated with additional options 
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
 
-[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)               
+[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
 
 ---
                 
@@ -227,6 +227,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
+### ❤️ Corifeus Utils 
+
+[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
+
+---
+                
+ 
+
+
 ### 🌳 Corifeus Web 
 
 [README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
@@ -239,15 +248,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### 🥠 A Facebook Fortune Cookie App 
 
 [README](https://pages.corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)               
-
----
-                
- 
-
-
-### ❤️ Corifeus Utils 
-
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
 
 ---
                 
@@ -338,7 +338,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
   
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.130 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.132 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
