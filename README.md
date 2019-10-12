@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.10.132  
+# 🎮 Corifeus Matrix v2019.10.134  
 
   
 
@@ -22,7 +22,7 @@
    
 ### Built on Node 
 ``` 
-v12.10.0
+v12.11.1
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -155,18 +155,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
+### ⌚ SystemD Manager, watchdog, notifier and service 
 
-[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
+[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
 
 ---
                 
  
 
 
-### ⌚ SystemD Manager, watchdog, notifier and service 
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
 
-[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
+[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
 
 ---
                 
@@ -338,7 +338,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
   
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.132 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.134 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
