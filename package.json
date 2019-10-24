@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "2019.10.134",
+    "version": "2019.10.136",
     "corifeus": {
         "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
@@ -26,7 +26,7 @@
                 "link": "artifacts/readme/patterns.html"
             }
         ],
-        "nodejs": "v12.11.1",
+        "nodejs": "v12.13.0",
         "opencollective": false,
         "reponame": "corifeus",
         "build": true
@@ -56,8 +56,8 @@
     },
     "homepage": "https://pages.corifeus.com/corifeus",
     "devDependencies": {
-        "corifeus-builder": "^2019.10.249",
-        "corifeus-utils": "^2019.10.167"
+        "corifeus-builder": "^2019.10.252",
+        "corifeus-utils": "^2019.10.170"
     },
     "engines": {
         "node": ">=10.16.0"

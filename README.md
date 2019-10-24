@@ -8,7 +8,7 @@
   
  
 ---
-# 🎮 Corifeus Matrix v2019.10.134  
+# 🎮 Corifeus Matrix v2019.10.136  
 
   
 
@@ -22,7 +22,7 @@
    
 ### Built on Node 
 ``` 
-v12.11.1
+v12.13.0
 ```   
    
 The ```async``` and ```await``` keywords are required.
@@ -65,7 +65,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🆖 Angular Dynamic Compile component, that turns a string into a compiled component 
+### 🆖 Angular Dynamic Compile - Convert strings to Angular components 
 
 [README](https://pages.corifeus.com/angular-compile) | [Github](https://github.com/patrikx3/angular-compile)               
 
@@ -155,18 +155,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### ⌚ SystemD Manager, watchdog, notifier and service 
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
 
-[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
+[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
 
 ---
                 
  
 
 
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
+### ⌚ SystemD Manager, watchdog, notifier and service 
 
-[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
+[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
 
 ---
                 
@@ -200,6 +200,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
+### Converts xml to json and vice-versa, using node-expat. 
+
+[README](https://pages.corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)               
+
+---
+                
+ 
+
+
 ### 🖥️ Corifeus App Server P3X 
 
 [README](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)               
@@ -218,18 +227,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🏛️ Corifeus Builder Angular 
+### ❤️ Corifeus Utils 
 
-[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
+[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
 
 ---
                 
  
 
 
-### ❤️ Corifeus Utils 
+### 🏛️ Corifeus Builder Angular 
 
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
+[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
 
 ---
                 
@@ -257,15 +266,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### 💣 Tools 
 
 [README](https://pages.corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)               
-
----
-                
- 
-
-
-### Converts xml to json and vice-versa, using node-expat. 
-
-[README](https://pages.corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)               
 
 ---
                 
@@ -338,7 +338,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
   
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.134 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.136 
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
 
