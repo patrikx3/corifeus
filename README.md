@@ -2,37 +2,37 @@
 
  
 
-[![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://paypal.me/patrikx3) [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Corifeus @ Facebook](https://img.shields.io/badge/Facebook-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)  [![Build Status](https://api.travis-ci.com/patrikx3/corifeus.svg?branch=master)](https://travis-ci.com/patrikx3/corifeus) 
+[![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://paypal.me/patrikx3) [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Corifeus @ Facebook](https://img.shields.io/badge/Facebook-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)  [![Build Status](https://api.travis-ci.com/patrikx3/corifeus.svg?branch=master)](https://travis-ci.com/patrikx3/corifeus)
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m780749701-41bcade28c1ea8154eda7cca.svg)](https://uptimerobot.patrikx3.com/)
 
-  
- 
+
+
 ---
-# 🎮 Corifeus Matrix v2019.10.136  
+# 🎮 Corifeus Matrix v2019.10.138
 
-  
 
-**Bugs are evident™ - MATRIX️**  
+
+**Bugs are evident™ - MATRIX️**
     
 
-### Node Version Requirement 
-``` 
->=10.16.0 
-```  
-   
-### Built on Node 
-``` 
-v12.13.0
-```   
-   
+### Node Version Requirement
+```
+>=10.16.0
+```
+
+### Built on Node
+```
+v12.13.1
+```
+
 The ```async``` and ```await``` keywords are required.
 
-Install NodeJs:    
-https://nodejs.org/en/download/package-manager/    
+Install NodeJs:
+https://nodejs.org/en/download/package-manager/
 
 
 
-# Description  
+# Description
 
                         
 [//]: #@corifeus-header:end
@@ -128,6 +128,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
+### ⌚ SystemD Manager, watchdog, notifier and service 
+
+[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
+
+---
+                
+ 
+
+
 ### 🍶 Verdaccio CLI 
 
 [README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
@@ -164,15 +173,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### ⌚ SystemD Manager, watchdog, notifier and service 
-
-[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
-
----
-                
- 
-
-
 ### 🌴 Corifeus Web Material 
 
 [README](https://pages.corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)               
@@ -182,18 +182,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🚧 Grunt Express Server updated with additional options 
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
 
-[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)               
+[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
 
 ---
                 
  
 
 
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
+### 🚧 Grunt Express Server updated with additional options 
 
-[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
+[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)               
 
 ---
                 
@@ -218,24 +218,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🏗️ Corifeus Builder 
-
-[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
-
----
-                
- 
-
-
-### ❤️ Corifeus Utils 
-
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
-
----
-                
- 
-
-
 ### 🏛️ Corifeus Builder Angular 
 
 [README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
@@ -245,9 +227,27 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
+### 🏗️ Corifeus Builder 
+
+[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
+
+---
+                
+ 
+
+
 ### 🌳 Corifeus Web 
 
 [README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
+
+---
+                
+ 
+
+
+### ❤️ Corifeus Utils 
+
+[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
 
 ---
                 
@@ -332,26 +332,24 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 Possible, this server, rarely, is down, please, hang on for 15-30 minutes and the server will be back up.
 
 All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://corifeus.com)) could have minor errors, since I am developing in my free time. However, it is usually stable.
-    
-**Note about versioning:** Versions are cut in Major.Minor.Patch schema. Major is always the current year. Minor is either 4 (January - June) or 10 (July - December). Patch is incremental by every build. If there is a breaking change, it should be noted in the readme.  
+
+**Note about versioning:** Versions are cut in Major.Minor.Patch schema. Major is always the current year. Minor is either 4 (January - June) or 10 (July - December). Patch is incremental by every build. If there is a breaking change, it should be noted in the readme.
 
 
 ---
-  
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.136 
 
-[![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) 
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.138
+
+[![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
 
-## P3X Sponsors
+## P3X Sponsor
 
 [IntelliJ - The most intelligent Java IDE](https://www.jetbrains.com/?from=patrikx3)
-  
-[![JetBrains](https://cdn.corifeus.com/assets/svg/jetbrains-logo.svg)](https://www.jetbrains.com/?from=patrikx3) [![NoSQLBooster](https://cdn.corifeus.com/assets/png/nosqlbooster-70x70.png)](https://www.nosqlbooster.com/)
 
-[The Smartest IDE for MongoDB](https://www.nosqlbooster.com)
-  
-  
- 
+[![JetBrains](https://cdn.corifeus.com/assets/svg/jetbrains-logo.svg)](https://www.jetbrains.com/?from=patrikx3)
+
+
+
 
 [//]: #@corifeus-footer:end
