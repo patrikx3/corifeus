@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2019.10.138
+# 🎮 Corifeus Matrix v2020.4.101
 
 
 
@@ -17,12 +17,12 @@
 
 ### Node Version Requirement
 ```
->=10.16.0
+>=12.13.0
 ```
 
 ### Built on Node
 ```
-v12.13.1
+v12.14.1
 ```
 
 The ```async``` and ```await``` keywords are required.
@@ -110,7 +110,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### ✨ Debian Buster / Bullseye / Bookworm / Testing / SID MongoDB and MongoDB Tools build stable  
+### ✨ Debian Bullseye / Bookworm / Testing / SID MongoDB and MongoDB Tools build stable  
 
 [README](https://pages.corifeus.com/docker-debian-testing-mongodb-stable) | [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)               
 
@@ -122,6 +122,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface 
 
 [README](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)               
+
+---
+                
+ 
+
+
+### 🎮 Corifeus Matrix 
+
+[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)               
 
 ---
                 
@@ -140,15 +149,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### 🍶 Verdaccio CLI 
 
 [README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
-
----
-                
- 
-
-
-### 🎮 Corifeus Matrix 
-
-[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)               
 
 ---
                 
@@ -191,18 +191,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🚧 Grunt Express Server updated with additional options 
+### Converts xml to json and vice-versa, using node-expat. 
 
-[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)               
+[README](https://pages.corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)               
 
 ---
                 
  
 
 
-### Converts xml to json and vice-versa, using node-expat. 
+### 🚧 Grunt Express Server updated with additional options 
 
-[README](https://pages.corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)               
+[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)               
 
 ---
                 
@@ -218,15 +218,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🏛️ Corifeus Builder Angular 
-
-[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
-
----
-                
- 
-
-
 ### 🏗️ Corifeus Builder 
 
 [README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
@@ -236,18 +227,27 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
  
 
 
-### 🌳 Corifeus Web 
+### ❤️ Corifeus Utils 
 
-[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
+[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
 
 ---
                 
  
 
 
-### ❤️ Corifeus Utils 
+### 🏛️ Corifeus Builder Angular 
 
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
+[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
+
+---
+                
+ 
+
+
+### 🌳 Corifeus Web 
+
+[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
 
 ---
                 
@@ -338,7 +338,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2019.10.138
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2020.4.101
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
