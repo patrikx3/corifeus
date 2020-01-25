@@ -306,18 +306,25 @@ Requires NodeJs latest version, GIT and ```npm install -g npm-check-updates yarn
 ## Windows / Powershell
 ```powershell
 iwr https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.ps1 -UseBasicParsing | iex
+```
 
+<!--
 # or, add credit
 $cred = Get-Credential
 iwr https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.ps1  -Credential $cred -UseBasicParsing | iex
 ```
+--->
 
 ## \*nix / BSD / Bash / Curl
 ```bash
 curl -sL https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.sh | bash -
+```
+
+<!--
 # or
 curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.sh | bash -
 ```
+--->
 
 # Inception
 
