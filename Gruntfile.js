@@ -37,15 +37,18 @@ module.exports = (grunt) => {
             Object.keys(sortedObject).forEach((key) => {
                 const pkg = sortedObject[key]
                 const desc = pkg.description ;
+
+                const hiddenStars = `<!--@star|${pkg.name}-->`;;
+
                 replace += `
 
-### ${desc} 
+### ${desc} ${hiddenStars}
 
-[README](https://pages.corifeus.com/${pkg.corifeus.reponame}) | [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})               
+[README](https://pages.corifeus.com/${pkg.corifeus.reponame}) | [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})
 
 ---
-                
- 
+
+
 `
             })
 

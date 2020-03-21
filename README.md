@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.4.107
+# 🎮 Corifeus Matrix v2020.4.119
 
 
 
@@ -47,229 +47,229 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 [//]: #@corifeus-projects
 
 
-### 📚 P3X OneNote Linux 
+### 📚 P3X OneNote Linux <!--@star|p3x-onenote-->
 
-[README](https://pages.corifeus.com/onenote) | [Github](https://github.com/patrikx3/onenote)               
-
----
-                
- 
-
-
-### 📡 P3X Redis UI can work with huge key sets, is functional and works on the web and desktop (Electron) 
-
-[README](https://pages.corifeus.com/redis-ui) | [Github](https://github.com/patrikx3/redis-ui)               
+[README](https://pages.corifeus.com/onenote) | [Github](https://github.com/patrikx3/onenote)
 
 ---
-                
- 
 
 
-### 🆖 Angular Dynamic Compile - Convert strings to Angular components 
-
-[README](https://pages.corifeus.com/angular-compile) | [Github](https://github.com/patrikx3/angular-compile)               
-
----
-                
- 
 
 
-### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer 
+### 📡 P3X Redis UI can work with huge key sets, is functional and works on the web and desktop (Electron) <!--@star|p3x-redis-ui-->
 
-[README](https://pages.corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)               
+[README](https://pages.corifeus.com/redis-ui) | [Github](https://github.com/patrikx3/redis-ui)
 
 ---
-                
- 
 
 
-### 💾 Linux RAM disk persistent with Systemd timer, service and suspend 
-
-[README](https://pages.corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)               
-
----
-                
- 
 
 
-### 🌐 Freenom API - Promise and auto renew expiring domains 
+### 🆖 Angular Dynamic Compile - Convert strings to Angular components <!--@star|p3x-angular-compile-->
 
-[README](https://pages.corifeus.com/freenom) | [Github](https://github.com/patrikx3/freenom)               
+[README](https://pages.corifeus.com/angular-compile) | [Github](https://github.com/patrikx3/angular-compile)
 
 ---
-                
- 
 
 
-### ☕ OpenWrt with latest NodeJs for Linksys WRT 
-
-[README](https://pages.corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)               
-
----
-                
- 
 
 
-### ✨ Debian Bullseye / Bookworm / Testing / SID MongoDB and MongoDB Tools build stable  
+### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer <!--@star|p3x-gitlist-->
 
-[README](https://pages.corifeus.com/docker-debian-testing-mongodb-stable) | [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)               
+[README](https://pages.corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
 
 ---
-                
- 
 
 
-### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface 
-
-[README](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)               
-
----
-                
- 
 
 
-### 🎮 Corifeus Matrix 
+### 💾 Linux RAM disk persistent with Systemd timer, service and suspend <!--@star|p3x-ramdisk-->
 
-[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)               
+[README](https://pages.corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
 
 ---
-                
- 
 
 
-### ⌚ SystemD Manager, watchdog, notifier and service 
-
-[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)               
-
----
-                
- 
 
 
-### 🍶 Verdaccio CLI 
+### 🌐 Freenom API - Promise and auto renew expiring domains <!--@star|p3x-freenom-->
 
-[README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)               
+[README](https://pages.corifeus.com/freenom) | [Github](https://github.com/patrikx3/freenom)
 
 ---
-                
- 
 
 
-### 🕸️ Corifeus App Web Pages 
-
-[README](https://pages.corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)               
-
----
-                
- 
 
 
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io 
+### ☕ OpenWrt with latest NodeJs for Linksys WRT <!--@star|p3x-openwrt-insomnia-->
 
-[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)               
+[README](https://pages.corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)
 
 ---
-                
- 
 
 
-### 🌴 Corifeus Web Material 
-
-[README](https://pages.corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)               
-
----
-                
- 
 
 
-### 🚧 Grunt Express Server updated with additional options 
+### ✨ Debian Bullseye / Bookworm / Testing / SID MongoDB and MongoDB Tools build stable  <!--@star|p3x-docker-debian-testing-mongodb-stable-->
 
-[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)               
+[README](https://pages.corifeus.com/docker-debian-testing-mongodb-stable) | [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)
 
 ---
-                
- 
 
 
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf 
-
-[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)               
-
----
-                
- 
 
 
-### Converts xml to json and vice-versa, using node-expat. 
+### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface <!--@star|p3x-redis-ui-server-->
 
-[README](https://pages.corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)               
+[README](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
 
 ---
-                
- 
 
 
-### 🖥️ Corifeus App Server P3X 
-
-[README](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)               
-
----
-                
- 
 
 
-### 🏗️ Corifeus Builder 
+### 🎮 Corifeus Matrix <!--@star|corifeus-->
 
-[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)               
+[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)
 
 ---
-                
- 
 
 
-### 🏛️ Corifeus Builder Angular 
-
-[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)               
-
----
-                
- 
 
 
-### 🌳 Corifeus Web 
+### ⌚ SystemD Manager, watchdog, notifier and service <!--@star|p3x-systemd-manager-->
 
-[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)               
+[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
 
 ---
-                
- 
 
 
-### 🥠 A Facebook Fortune Cookie App 
-
-[README](https://pages.corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)               
-
----
-                
- 
 
 
-### ❤️ Corifeus Utils 
+### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
 
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)               
+[README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
 ---
-                
- 
 
 
-### 💣 Tools 
 
-[README](https://pages.corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)               
+
+### 🕸️ Corifeus App Web Pages <!--@star|corifeus-app-web-pages-->
+
+[README](https://pages.corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
-                
- 
+
+
+
+
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io <!--@star|p3x-redis-ui-material-->
+
+[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
+
+---
+
+
+
+
+### 🌴 Corifeus Web Material <!--@star|corifeus-web-material-->
+
+[README](https://pages.corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)
+
+---
+
+
+
+
+### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
+
+[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+
+---
+
+
+
+
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf <!--@star|p3x-html-pdf-->
+
+[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
+
+---
+
+
+
+
+### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
+
+[README](https://pages.corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+
+---
+
+
+
+
+### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
+
+[README](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
+
+---
+
+
+
+
+### 🏗️ Corifeus Builder <!--@star|corifeus-builder-->
+
+[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+
+---
+
+
+
+
+### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
+
+[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
+
+---
+
+
+
+
+### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
+
+[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+
+---
+
+
+
+
+### 🌳 Corifeus Web <!--@star|corifeus-web-->
+
+[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)
+
+---
+
+
+
+
+### 🥠 A Facebook Fortune Cookie App <!--@star|p3x-fortune-cookie-->
+
+[README](https://pages.corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)
+
+---
+
+
+
+
+### 💣 Tools <!--@star|p3x-tools-->
+
+[README](https://pages.corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)
+
+---
+
+
 
 [//]: #@corifeus-projects:end
 
@@ -345,7 +345,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2020.4.107
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2020.4.119
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
