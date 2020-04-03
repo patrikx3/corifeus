@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.4.133
+# 🎮 Corifeus Matrix v2020.4.136
 
 
 
@@ -128,6 +128,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
+### 🎮 Corifeus Matrix <!--@star|corifeus-->
+
+[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)
+
+---
+
+
+
+
 ### ⌚ SystemD Manager, watchdog, notifier and service <!--@star|p3x-systemd-manager-->
 
 [README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
@@ -140,15 +149,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
 
 [README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
-
----
-
-
-
-
-### 🎮 Corifeus Matrix <!--@star|corifeus-->
-
-[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)
 
 ---
 
@@ -236,15 +236,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
-
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
-
----
-
-
-
-
 ### 🌳 Corifeus Web <!--@star|corifeus-web-->
 
 [README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)
@@ -254,9 +245,27 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
+### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
+
+[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+
+---
+
+
+
+
 ### 🥠 A Facebook Fortune Cookie App <!--@star|p3x-fortune-cookie-->
 
 [README](https://pages.corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)
+
+---
+
+
+
+
+### 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread <!--@star|p3x-json2xls-worker-thread-->
+
+[README](https://pages.corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
 
 ---
 
@@ -289,7 +298,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 Web, Android, iOs, Cli, Rest, Socket.IO, Electron, Ionic
 
 ## Code names
-Linux, Logico, Vader, Spawn, Mafia, Insomnia, MissOut, Support, Tempo, Matrix, CIA, Amazing, Next, Last, Forest, Memory, Motor, Make, Prototype, Spectrum, Fireball, Reverse, 2Q, Robo8X, Sake, Lazy, Breaking, Venture, **Backwash, Howling, Crusoe, Tracktor, White Raven, Waterflood, Done, Legend, Halite, Micro, Sunday, Forty, Mafia, Hurricane, Nanometer, Elektra, DoinIt, Fresh, Breeze, Turbo, Underground, Q, Thunder Cluster** 
+2Q, Amazing, Breaking, Done, Fireball, Forest, Insomnia, Last, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, **Backwash, Breeze, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Motor, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo** 
 
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
@@ -345,7 +354,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2020.4.133
+[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2020.4.136
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
