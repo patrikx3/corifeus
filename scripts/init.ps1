@@ -5,6 +5,6 @@ git checkout master
 git submodule update --init --recursive --remote
 git submodule foreach --recursive git checkout master
 
-#yarn install
-#&git submodule foreach --recursive yarn install
+#npm install
+#&git submodule foreach --recursive npm install
 

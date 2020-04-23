@@ -310,7 +310,7 @@ Travis, Github, NPM, Docker, MIT License, Grunt, ES.NEXT, TypeScript, WebPack, R
 Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
 
 # Install
-Requires NodeJs latest version, GIT and ```npm install -g npm-check-updates yarn grunt-cli npm```
+Requires NodeJs latest version, GIT and ```npm install -g npm-check-updates grunt-cli npm```
 
 ## Windows / Powershell
 ```powershell
