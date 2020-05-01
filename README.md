@@ -8,24 +8,24 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.4.138
+# 🎮 Corifeus Matrix v2020.4.144
 
 
 
 **Bugs are evident™ - MATRIX️**
     
 
-### Node Version Requirement
+### NodeJs LTS Version Requirement
 ```
 >=12.13.0
 ```
 
-### Built on Node
+### Built on NodeJs
 ```
-v12.16.2
+v12.16.3
 ```
 
-The ```async``` and ```await``` keywords are required.
+The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
 
 Install NodeJs:
 https://nodejs.org/en/download/package-manager/
@@ -49,7 +49,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 📚 P3X OneNote Linux <!--@star|p3x-onenote-->
 
-[README](https://pages.corifeus.com/onenote) | [Github](https://github.com/patrikx3/onenote)
+[README](https://corifeus.com/onenote) | [Github](https://github.com/patrikx3/onenote)
 
 ---
 
@@ -58,7 +58,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 📡 P3X Redis UI can work with huge key sets, is functional and works on the web and desktop (Electron) <!--@star|p3x-redis-ui-->
 
-[README](https://pages.corifeus.com/redis-ui) | [Github](https://github.com/patrikx3/redis-ui)
+[README](https://corifeus.com/redis-ui) | [Github](https://github.com/patrikx3/redis-ui)
 
 ---
 
@@ -67,7 +67,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🆖 Angular Dynamic Compile - Convert strings to Angular components <!--@star|p3x-angular-compile-->
 
-[README](https://pages.corifeus.com/angular-compile) | [Github](https://github.com/patrikx3/angular-compile)
+[README](https://corifeus.com/angular-compile) | [Github](https://github.com/patrikx3/angular-compile)
 
 ---
 
@@ -76,7 +76,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer <!--@star|p3x-gitlist-->
 
-[README](https://pages.corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
+[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
 
 ---
 
@@ -85,7 +85,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 💾 Linux RAM disk persistent with Systemd timer, service and suspend <!--@star|p3x-ramdisk-->
 
-[README](https://pages.corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
+[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
 
 ---
 
@@ -94,7 +94,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🌐 Freenom API - Promise and auto renew expiring domains <!--@star|p3x-freenom-->
 
-[README](https://pages.corifeus.com/freenom) | [Github](https://github.com/patrikx3/freenom)
+[README](https://corifeus.com/freenom) | [Github](https://github.com/patrikx3/freenom)
 
 ---
 
@@ -103,7 +103,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### ☕ OpenWrt with latest NodeJs for Linksys WRT <!--@star|p3x-openwrt-insomnia-->
 
-[README](https://pages.corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)
+[README](https://corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)
 
 ---
 
@@ -112,7 +112,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### ✨ Debian Bullseye / Bookworm / Testing / SID MongoDB and MongoDB Tools build stable  <!--@star|p3x-docker-debian-testing-mongodb-stable-->
 
-[README](https://pages.corifeus.com/docker-debian-testing-mongodb-stable) | [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)
+[README](https://corifeus.com/docker-debian-testing-mongodb-stable) | [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)
 
 ---
 
@@ -121,7 +121,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface <!--@star|p3x-redis-ui-server-->
 
-[README](https://pages.corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
+[README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
 
 ---
 
@@ -130,7 +130,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🎮 Corifeus Matrix <!--@star|corifeus-->
 
-[README](https://pages.corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)
+[README](https://corifeus.com/corifeus) | [Github](https://github.com/patrikx3/corifeus)
 
 ---
 
@@ -139,7 +139,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### ⌚ SystemD Manager, watchdog, notifier and service <!--@star|p3x-systemd-manager-->
 
-[README](https://pages.corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
+[README](https://corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
 
 ---
 
@@ -148,7 +148,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
 
-[README](https://pages.corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
+[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
 ---
 
@@ -157,7 +157,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🕸️ Corifeus App Web Pages <!--@star|corifeus-app-web-pages-->
 
-[README](https://pages.corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -166,34 +166,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io <!--@star|p3x-redis-ui-material-->
 
-[README](https://pages.corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
-
----
-
-
-
-
-### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
-
-[README](https://pages.corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
-
----
-
-
-
-
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf <!--@star|p3x-html-pdf-->
-
-[README](https://pages.corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
-
----
-
-
-
-
-### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
-
-[README](https://pages.corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
 
 ---
 
@@ -202,7 +175,43 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🌴 Corifeus Web Material <!--@star|corifeus-web-material-->
 
-[README](https://pages.corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)
+[README](https://corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)
+
+---
+
+
+
+
+### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
+
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+
+---
+
+
+
+
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf <!--@star|p3x-html-pdf-->
+
+[README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
+
+---
+
+
+
+
+### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
+
+[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+
+---
+
+
+
+
+### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
+
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
 ---
 
@@ -211,7 +220,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
 
-[README](https://pages.corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
+[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
 
 ---
 
@@ -220,7 +229,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🏗️ Corifeus Builder <!--@star|corifeus-builder-->
 
-[README](https://pages.corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
 
 ---
 
@@ -229,7 +238,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
 
-[README](https://pages.corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
+[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
 
 ---
 
@@ -238,7 +247,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
 
-[README](https://pages.corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
 
 ---
 
@@ -247,7 +256,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🌳 Corifeus Web <!--@star|corifeus-web-->
 
-[README](https://pages.corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)
+[README](https://corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)
 
 ---
 
@@ -256,7 +265,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 🥠 A Facebook Fortune Cookie App <!--@star|p3x-fortune-cookie-->
 
-[README](https://pages.corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)
+[README](https://corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)
 
 ---
 
@@ -265,7 +274,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread <!--@star|p3x-json2xls-worker-thread-->
 
-[README](https://pages.corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
+[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
 
 ---
 
@@ -274,7 +283,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ### 💣 Tools <!--@star|p3x-tools-->
 
-[README](https://pages.corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)
+[README](https://corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)
 
 ---
 
@@ -298,7 +307,7 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 Web, Android, iOs, Cli, Rest, Socket.IO, Electron, Ionic
 
 ## Code names
-2Q, Amazing, Breaking, Done, Fireball, Forest, Insomnia, Last, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, **Backwash, Breeze, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Motor, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo** 
+2Q, Amazing, Breaking, Done, Fireball, Forest, Insomnia, Last, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, Breeze, **Backwash, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Motor, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo** 
 
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
@@ -354,7 +363,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://pages.corifeus.com/corifeus) Build v2020.4.138
+[**CORIFEUS**](https://corifeus.com/corifeus) Build v2020.4.144
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
