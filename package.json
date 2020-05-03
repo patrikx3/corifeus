@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "2020.4.144",
+    "version": "2020.4.151",
     "corifeus": {
         "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
@@ -54,10 +54,10 @@
     "bugs": {
         "url": "https://github.com/patrikx3/corifeus/issues"
     },
-    "homepage": "https://corifeus.com/corifeus",
+    "homepage": "https://corifeus.com/matrix",
     "devDependencies": {
-        "corifeus-builder": "^2020.4.179",
-        "corifeus-utils": "^2020.4.161"
+        "corifeus-builder": "^2020.4.194",
+        "corifeus-utils": "^2020.4.174"
     },
     "engines": {
         "node": ">=12.13.0"

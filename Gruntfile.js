@@ -44,7 +44,7 @@ module.exports = (grunt) => {
 
 ### ${desc} ${hiddenStars}
 
-[README](https://corifeus.com/${pkg.corifeus.reponame}) | [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})
+[README](https://corifeus.com/${pkg.corifeus.reponame === 'corifeus' ? 'matrix' : pkg.corifeus.reponame}) | [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})
 
 ---
 
