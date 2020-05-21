@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.4.154
+# 🎮 Corifeus Matrix v2020.4.156
 
 
 
@@ -119,15 +119,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface <!--@star|p3x-redis-ui-server-->
-
-[README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
-
----
-
-
-
-
 ### 🎮 Corifeus Matrix <!--@star|corifeus-->
 
 [README](https://corifeus.com/matrix) | [Github](https://github.com/patrikx3/corifeus)
@@ -137,9 +128,9 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
+### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface <!--@star|p3x-redis-ui-server-->
 
-[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
+[README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
 
 ---
 
@@ -149,6 +140,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### ⌚ SystemD Manager, watchdog, notifier and service <!--@star|p3x-systemd-manager-->
 
 [README](https://corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
+
+---
+
+
+
+
+### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
+
+[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
 ---
 
@@ -209,15 +209,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
-
-[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
-
----
-
-
-
-
 ### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
 
 [README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
@@ -227,9 +218,27 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
+### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
+
+[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
+
+---
+
+
+
+
 ### 🏗️ Corifeus Builder <!--@star|corifeus-builder-->
 
 [README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+
+---
+
+
+
+
+### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
+
+[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
 
 ---
 
@@ -254,27 +263,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread <!--@star|p3x-json2xls-worker-thread-->
-
-[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
-
----
-
-
-
-
-### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
-
-[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
-
----
-
-
-
-
 ### 🥠 A Facebook Fortune Cookie App <!--@star|p3x-fortune-cookie-->
 
 [README](https://corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)
+
+---
+
+
+
+
+### 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread <!--@star|p3x-json2xls-worker-thread-->
+
+[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
 
 ---
 
@@ -363,7 +363,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.4.154
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.4.156
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
