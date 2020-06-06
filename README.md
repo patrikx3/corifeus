@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.4.156
+# 🎮 Corifeus Matrix v2020.4.161
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v12.16.3
+v12.18.0
 ```
 
 The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
@@ -164,6 +164,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
+### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
+
+[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+
+---
+
+
+
+
 ### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io <!--@star|p3x-redis-ui-material-->
 
 [README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
@@ -182,15 +191,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
-
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
-
----
-
-
-
-
 ### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf <!--@star|p3x-html-pdf-->
 
 [README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
@@ -200,9 +200,9 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
+### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
 
-[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
 ---
 
@@ -218,9 +218,9 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
+### 🚅 Find the closest or exact value using binary search <!--@star|p3x-binary-search-closest-->
 
-[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
+[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
 
 ---
 
@@ -236,9 +236,9 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
+### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
 
-[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
+[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
 
 ---
 
@@ -248,6 +248,15 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
 
 [README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+
+---
+
+
+
+
+### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
+
+[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
 
 ---
 
@@ -307,13 +316,13 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 Web, Android, iOs, Cli, Rest, Socket.IO, Electron, Ionic
 
 ## Code names
-2Q, Amazing, Breaking, Done, Fireball, Forest, Insomnia, Last, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, Motor, **Breeze, Backwash, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo, Dynamic** 
+2Q, Amazing, Breaking, Done, Fireball, Forest, Insomnia, Last, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, Motor, Bullet, **Breeze, Backwash, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo, Dynamic** 
 
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
 
 ## Frameworks, B2B
-Travis, Github, NPM, Docker, MIT License, Grunt, ES.NEXT, TypeScript, WebPack, ReactiveX
+Travis, Github, NPM, Docker, MIT License, Grunt, ES.NEXT, TypeScript, WebPack, ReactiveX, Angular, Angular Material
 
 ### Mixed
 Composable / Pluggable / Patterns / Extensibility / De-couple / Loose-based
@@ -363,7 +372,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.4.156
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.4.161
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
