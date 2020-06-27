@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.4.163
+# 🎮 Corifeus Matrix v2020.4.166
 
 
 
@@ -41,6 +41,9 @@ https://nodejs.org/en/download/package-manager/
 # About
 
 Corifeus Matrix provides micro-services and open source applications on GitHub.
+
+## Development / project delivery
+Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/contact
 
 ## Programs including
   
@@ -182,18 +185,18 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
+### 🌴 Corifeus Web Material <!--@star|corifeus-web-material-->
 
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+[README](https://corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)
 
 ---
 
 
 
 
-### 🌴 Corifeus Web Material <!--@star|corifeus-web-material-->
+### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
 
-[README](https://corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
 ---
 
@@ -209,18 +212,27 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 
 
-### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
+### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
 
-[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
 ---
 
 
 
 
-### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
+### 🚅 Find the closest or exact value using binary search <!--@star|p3x-binary-search-closest-->
 
-[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
+
+---
+
+
+
+
+### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
+
+[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
 
 ---
 
@@ -257,15 +269,6 @@ Corifeus Matrix provides micro-services and open source applications on GitHub.
 ### 🌳 Corifeus Web <!--@star|corifeus-web-->
 
 [README](https://corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)
-
----
-
-
-
-
-### 🚅 Find the closest or exact value using binary search <!--@star|p3x-binary-search-closest-->
-
-[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
 
 ---
 
@@ -372,7 +375,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.4.163
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.4.166
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
