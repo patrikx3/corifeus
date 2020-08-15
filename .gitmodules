@@ -13,16 +13,6 @@ path=corifeus-builder-angular
 url=https://github.com/patrikx3/corifeus-builder-angular
 branch=master
 
-[submodule "corifeus-web"]
-path=corifeus-web
-url=https://github.com/patrikx3/corifeus-web
-branch=master
-
-[submodule "corifeus-web-material"]
-path=corifeus-web-material
-url=https://github.com/patrikx3/corifeus-web-material
-branch=master
-
 [submodule "corifeus-app-web-pages"]
 path=corifeus-app-web-pages
 url=https://github.com/patrikx3/corifeus-app-web-pages

@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.4.166
+# 🎮 Corifeus Matrix v2020.10.105
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v12.18.1
+v12.18.3
 ```
 
 The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
@@ -43,7 +43,7 @@ https://nodejs.org/en/download/package-manager/
 Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ## Development / project delivery
-Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/contact
+Contact @ https://patrikx3.com/contact
 
 ## Programs including
   
@@ -59,7 +59,7 @@ Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/conta
 
 
 
-### 📡 P3X Redis UI can work with huge key sets, is functional and works on the web and desktop (Electron) <!--@star|p3x-redis-ui-->
+### 📡 P3X Redis UI is a very functional handy database GUI and works on the responsive web and desktop (Electron) <!--@star|p3x-redis-ui-->
 
 [README](https://corifeus.com/redis-ui) | [Github](https://github.com/patrikx3/redis-ui)
 
@@ -167,15 +167,6 @@ Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/conta
 
 
 
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io <!--@star|p3x-redis-ui-material-->
-
-[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
-
----
-
-
-
-
 ### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
 
 [README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
@@ -185,18 +176,9 @@ Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/conta
 
 
 
-### 🌴 Corifeus Web Material <!--@star|corifeus-web-material-->
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io <!--@star|p3x-redis-ui-material-->
 
-[README](https://corifeus.com/corifeus-web-material) | [Github](https://github.com/patrikx3/corifeus-web-material)
-
----
-
-
-
-
-### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
-
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
 
 ---
 
@@ -212,9 +194,9 @@ Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/conta
 
 
 
-### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
+### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
 
-[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
 ---
 
@@ -239,18 +221,18 @@ Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/conta
 
 
 
-### 🏗️ Corifeus Builder <!--@star|corifeus-builder-->
+### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
 
-[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
 
 ---
 
 
 
 
-### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
+### 🏗️ Corifeus Builder <!--@star|corifeus-builder-->
 
-[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
+[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
 
 ---
 
@@ -266,9 +248,9 @@ Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/conta
 
 
 
-### 🌳 Corifeus Web <!--@star|corifeus-web-->
+### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
 
-[README](https://corifeus.com/corifeus-web) | [Github](https://github.com/patrikx3/corifeus-web)
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
 ---
 
@@ -319,7 +301,7 @@ Allow us to develop your projects. Contact Corifeus @ https://patrikx3.com/conta
 Web, Android, iOs, Cli, Rest, Socket.IO, Electron, Ionic
 
 ## Code names
-2Q, Amazing, Breaking, Done, Fireball, Forest, Insomnia, Last, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, Motor, Bullet, **Breeze, Backwash, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo, Dynamic** 
+2Q, Breaking, Done, Fireball, Insomnia, Last, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, Motor, Bullet, **Forest, Amazing, Breeze, Backwash, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo, Dynamic** 
 
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
@@ -375,7 +357,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.4.166
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.105
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
