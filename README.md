@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.10.105
+# 🎮 Corifeus Matrix v2020.10.107
 
 
 
@@ -167,18 +167,18 @@ Contact @ https://patrikx3.com/contact
 
 
 
-### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
+### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io <!--@star|p3x-redis-ui-material-->
 
-[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
 
 ---
 
 
 
 
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io <!--@star|p3x-redis-ui-material-->
+### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
 
-[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
+[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
 
 ---
 
@@ -203,6 +203,15 @@ Contact @ https://patrikx3.com/contact
 
 
 
+### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
+
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+
+---
+
+
+
+
 ### 🚅 Find the closest or exact value using binary search <!--@star|p3x-binary-search-closest-->
 
 [README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
@@ -215,15 +224,6 @@ Contact @ https://patrikx3.com/contact
 ### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
 
 [README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
-
----
-
-
-
-
-### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
-
-[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
 
 ---
 
@@ -248,9 +248,9 @@ Contact @ https://patrikx3.com/contact
 
 
 
-### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
+### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
 
-[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
 
 ---
 
@@ -357,7 +357,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.105
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.107
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
