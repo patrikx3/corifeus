@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.10.107
+# 🎮 Corifeus Matrix v2020.10.109
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v12.18.3
+v12.18.4
 ```
 
 The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
@@ -43,9 +43,9 @@ https://nodejs.org/en/download/package-manager/
 Corifeus Matrix provides micro-services and open source applications on GitHub.
 
 ## Development / project delivery
-Contact @ https://patrikx3.com/contact
+We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack. Consult @ https://patrikx3.com/contact for a quote.
 
-## Programs including
+## Applications
   
 [//]: #@corifeus-projects
 
@@ -77,18 +77,18 @@ Contact @ https://patrikx3.com/contact
 
 
 
-### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer <!--@star|p3x-gitlist-->
+### 💾 Linux RAM disk persistent with Systemd timer, service and suspend <!--@star|p3x-ramdisk-->
 
-[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
+[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
 
 ---
 
 
 
 
-### 💾 Linux RAM disk persistent with Systemd timer, service and suspend <!--@star|p3x-ramdisk-->
+### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer <!--@star|p3x-gitlist-->
 
-[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
+[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
 
 ---
 
@@ -149,18 +149,9 @@ Contact @ https://patrikx3.com/contact
 
 
 
-### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
+### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf <!--@star|p3x-html-pdf-->
 
-[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
-
----
-
-
-
-
-### 🕸️ Corifeus App Web Pages <!--@star|corifeus-app-web-pages-->
-
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
 
 ---
 
@@ -176,6 +167,15 @@ Contact @ https://patrikx3.com/contact
 
 
 
+### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
+
+[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
+
+---
+
+
+
+
 ### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
 
 [README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
@@ -185,9 +185,9 @@ Contact @ https://patrikx3.com/contact
 
 
 
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf <!--@star|p3x-html-pdf-->
+### 🕸️ Corifeus App Web Pages <!--@star|corifeus-app-web-pages-->
 
-[README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -239,18 +239,18 @@ Contact @ https://patrikx3.com/contact
 
 
 
-### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
+### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
 
-[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
 
 ---
 
 
 
 
-### 🏛️ Corifeus Builder Angular <!--@star|corifeus-builder-angular-->
+### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
 
-[README](https://corifeus.com/corifeus-builder-angular) | [Github](https://github.com/patrikx3/corifeus-builder-angular)
+[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
 
 ---
 
@@ -357,7 +357,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.107
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.109
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
