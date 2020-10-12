@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.10.109
+# 🎮 Corifeus Matrix v2020.10.116
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v12.18.4
+v12.19.0
 ```
 
 The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
@@ -122,15 +122,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🎮 Corifeus Matrix <!--@star|corifeus-->
-
-[README](https://corifeus.com/matrix) | [Github](https://github.com/patrikx3/corifeus)
-
----
-
-
-
-
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface <!--@star|p3x-redis-ui-server-->
 
 [README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
@@ -143,6 +134,24 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### ⌚ SystemD Manager, watchdog, notifier and service <!--@star|p3x-systemd-manager-->
 
 [README](https://corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
+
+---
+
+
+
+
+### 🎮 Corifeus Matrix <!--@star|corifeus-->
+
+[README](https://corifeus.com/matrix) | [Github](https://github.com/patrikx3/corifeus)
+
+---
+
+
+
+
+### 🕸️ Corifeus App Web Pages <!--@star|corifeus-app-web-pages-->
+
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -185,9 +194,9 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🕸️ Corifeus App Web Pages <!--@star|corifeus-app-web-pages-->
+### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
 
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
 ---
 
@@ -197,15 +206,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
 
 [README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
-
----
-
-
-
-
-### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
-
-[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
 ---
 
@@ -251,15 +251,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
 
 [README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
-
----
-
-
-
-
-### 🥠 A Facebook Fortune Cookie App <!--@star|p3x-fortune-cookie-->
-
-[README](https://corifeus.com/fortune-cookie) | [Github](https://github.com/patrikx3/fortune-cookie)
 
 ---
 
@@ -357,7 +348,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.109
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.116
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
