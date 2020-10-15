@@ -8,11 +8,6 @@ path=corifeus-builder
 url=https://github.com/patrikx3/corifeus-builder
 branch=master
 
-[submodule "corifeus-builder-angular"]
-path=corifeus-builder-angular
-url=https://github.com/patrikx3/corifeus-builder-angular
-branch=master
-
 [submodule "corifeus-app-web-pages"]
 path=corifeus-app-web-pages
 url=https://github.com/patrikx3/corifeus-app-web-pages
