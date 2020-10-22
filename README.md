@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.10.124
+# 🎮 Corifeus Matrix v2020.10.126
 
 
 
@@ -77,18 +77,18 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 💾 Linux RAM disk persistent with Systemd timer, service and suspend <!--@star|p3x-ramdisk-->
+### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer <!--@star|p3x-gitlist-->
 
-[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
+[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
 
 ---
 
 
 
 
-### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer <!--@star|p3x-gitlist-->
+### 💾 Linux RAM disk persistent with Systemd timer, service and suspend <!--@star|p3x-ramdisk-->
 
-[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
+[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
 
 ---
 
@@ -176,15 +176,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
-
-[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
-
----
-
-
-
-
 ### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
 
 [README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
@@ -194,9 +185,9 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
+### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
 
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
 ---
 
@@ -206,6 +197,15 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
 
 [README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+
+---
+
+
+
+
+### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
+
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
 ---
 
@@ -283,7 +283,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 Web, Android, iOs, Cli, Rest, Socket.IO, Electron, Ionic
 
 ## Code names
-2Q, Breaking, Done, Fireball, Insomnia, Last, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, Motor, Bullet, **Forest, Amazing, Breeze, Backwash, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo, Dynamic** 
+2Q, Breaking, Done, Fireball, Insomnia, Lazy, Legend, Linux, Logico, Mafia, Make, Matrix, Memory, MissOut, Next, Prototype, Reverse, Sake, Spawn, Spectrum, Support, Vader, Venture, Motor, Bullet, **Last, Forest, Amazing, Breeze, Backwash, CIA, Crusoe, DoinIt, Elektra, Forty, Fresh, Halite, Howling, Hurricane, Micro, Nanometer, Q, Sunday, Thunder Cluster, Tractor, Turbo, Underground, Waterflood, White Raven, Tempo, Dynamic** 
 
 ## Agent
 p3x-robot, robo8x, corifeus-server-renderer
@@ -339,7 +339,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.124
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.126
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
