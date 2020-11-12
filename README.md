@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.10.126
+# 🎮 Corifeus Matrix v2020.10.129
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v12.19.0
+v14.15.0
 ```
 
 The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
@@ -59,7 +59,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 📡 P3X Redis UI is a very functional handy database GUI and works on the responsive web and desktop (Electron) <!--@star|p3x-redis-ui-->
+### 📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app <!--@star|p3x-redis-ui-->
 
 [README](https://corifeus.com/redis-ui) | [Github](https://github.com/patrikx3/redis-ui)
 
@@ -122,6 +122,15 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
+### ⌚ SystemD Manager, watchdog, notifier and service <!--@star|p3x-systemd-manager-->
+
+[README](https://corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
+
+---
+
+
+
+
 ### 🎮 Corifeus Matrix <!--@star|corifeus-->
 
 [README](https://corifeus.com/matrix) | [Github](https://github.com/patrikx3/corifeus)
@@ -134,15 +143,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface <!--@star|p3x-redis-ui-server-->
 
 [README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
-
----
-
-
-
-
-### ⌚ SystemD Manager, watchdog, notifier and service <!--@star|p3x-systemd-manager-->
-
-[README](https://corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
 
 ---
 
@@ -176,15 +176,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
-
-[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
-
----
-
-
-
-
 ### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
 
 [README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
@@ -194,9 +185,9 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
+### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
 
-[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
 
 ---
 
@@ -212,9 +203,9 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🚅 Find the closest or exact value using binary search <!--@star|p3x-binary-search-closest-->
+### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
 
-[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
 ---
 
@@ -242,6 +233,15 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
 
 [README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+
+---
+
+
+
+
+### 🚅 Find the closest or exact value using binary search <!--@star|p3x-binary-search-closest-->
+
+[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
 
 ---
 
@@ -339,7 +339,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.126
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.129
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
