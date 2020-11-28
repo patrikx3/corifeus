@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "2020.10.129",
+    "version": "2020.10.132",
     "corifeus": {
         "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
@@ -26,7 +26,7 @@
                 "link": "artifacts/readme/patterns.html"
             }
         ],
-        "nodejs": "v14.15.0",
+        "nodejs": "v14.15.1",
         "opencollective": false,
         "reponame": "corifeus",
         "build": true
@@ -56,8 +56,8 @@
     },
     "homepage": "https://corifeus.com/matrix",
     "devDependencies": {
-        "corifeus-builder": "^2020.10.144",
-        "corifeus-utils": "^2020.10.136"
+        "corifeus-builder": "^2020.10.147",
+        "corifeus-utils": "^2020.10.139"
     },
     "engines": {
         "node": ">=12.13.0"

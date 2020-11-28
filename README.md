@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.10.129
+# 🎮 Corifeus Matrix v2020.10.132
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v14.15.0
+v14.15.1
 ```
 
 The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
@@ -50,7 +50,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 [//]: #@corifeus-projects
 
 
-### 📚 P3X OneNote Linux <!--@star|p3x-onenote-->
+### <!--@star|p3x-onenote--> 📚 P3X OneNote Linux
 
 [README](https://corifeus.com/onenote) | [Github](https://github.com/patrikx3/onenote)
 
@@ -59,7 +59,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app <!--@star|p3x-redis-ui-->
+### <!--@star|p3x-redis-ui--> 📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app
 
 [README](https://corifeus.com/redis-ui) | [Github](https://github.com/patrikx3/redis-ui)
 
@@ -68,7 +68,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🆖 Angular Dynamic Compile - Convert strings to Angular components <!--@star|p3x-angular-compile-->
+### <!--@star|p3x-angular-compile--> 🆖 Angular Dynamic Compile - Convert strings to Angular components
 
 [README](https://corifeus.com/angular-compile) | [Github](https://github.com/patrikx3/angular-compile)
 
@@ -77,7 +77,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer <!--@star|p3x-gitlist-->
+### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
 
 [README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
 
@@ -86,7 +86,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 💾 Linux RAM disk persistent with Systemd timer, service and suspend <!--@star|p3x-ramdisk-->
+### <!--@star|p3x-ramdisk--> 💾 Linux RAM disk persistent with Systemd timer, service and suspend
 
 [README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
 
@@ -95,7 +95,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🌐 Freenom API - Promise and auto renew expiring domains <!--@star|p3x-freenom-->
+### <!--@star|p3x-freenom--> 🌐 Freenom API - Promise and auto renew expiring domains
 
 [README](https://corifeus.com/freenom) | [Github](https://github.com/patrikx3/freenom)
 
@@ -104,7 +104,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### ☕ OpenWrt with latest NodeJs for Linksys WRT <!--@star|p3x-openwrt-insomnia-->
+### <!--@star|p3x-openwrt-insomnia--> ☕ OpenWrt with latest NodeJs for Linksys WRT
 
 [README](https://corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)
 
@@ -113,7 +113,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### ✨ Debian Bullseye / Bookworm / Testing / SID MongoDB and MongoDB Tools build stable  <!--@star|p3x-docker-debian-testing-mongodb-stable-->
+### <!--@star|p3x-docker-debian-testing-mongodb-stable--> ✨ Debian Bullseye / Bookworm / Testing / SID MongoDB and MongoDB Tools build stable 
 
 [README](https://corifeus.com/docker-debian-testing-mongodb-stable) | [Github](https://github.com/patrikx3/docker-debian-testing-mongodb-stable)
 
@@ -122,7 +122,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### ⌚ SystemD Manager, watchdog, notifier and service <!--@star|p3x-systemd-manager-->
+### <!--@star|p3x-systemd-manager--> ⌚ SystemD Manager, watchdog, notifier and service
 
 [README](https://corifeus.com/systemd-manager) | [Github](https://github.com/patrikx3/systemd-manager)
 
@@ -131,7 +131,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🎮 Corifeus Matrix <!--@star|corifeus-->
+### <!--@star|corifeus--> 🎮 Corifeus Matrix
 
 [README](https://corifeus.com/matrix) | [Github](https://github.com/patrikx3/corifeus)
 
@@ -140,7 +140,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface <!--@star|p3x-redis-ui-server-->
+### <!--@star|p3x-redis-ui-server--> 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface
 
 [README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
 
@@ -149,7 +149,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🕸️ Corifeus App Web Pages <!--@star|corifeus-app-web-pages-->
+### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
 
 [README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
@@ -158,7 +158,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf <!--@star|p3x-html-pdf-->
+### <!--@star|p3x-html-pdf--> 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf
 
 [README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
 
@@ -167,7 +167,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io <!--@star|p3x-redis-ui-material-->
+### <!--@star|p3x-redis-ui-material--> 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io
 
 [README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
 
@@ -176,7 +176,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🍶 Verdaccio CLI <!--@star|p3x-verdaccio-cli-->
+### <!--@star|p3x-verdaccio-cli--> 🍶 Verdaccio CLI
 
 [README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
@@ -185,7 +185,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### Converts xml to json and vice-versa, using node-expat. <!--@star|p3x-xml2json-->
+### <!--@star|p3x-xml2json--> Converts xml to json and vice-versa, using node-expat.
 
 [README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
 
@@ -194,7 +194,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🚧 Grunt Express Server updated with additional options <!--@star|grunt-p3x-express-->
+### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
 [README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
@@ -203,7 +203,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request. <!--@star|p3x-angular-http-cache-interceptor-->
+### <!--@star|p3x-angular-http-cache-interceptor--> 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request.
 
 [README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
@@ -212,34 +212,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 🖥️ Corifeus App Server P3X <!--@star|corifeus-app-server-patrikx3-->
-
-[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
-
----
-
-
-
-
-### 🏗️ Corifeus Builder <!--@star|corifeus-builder-->
-
-[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
-
----
-
-
-
-
-### ❤️ Corifeus Utils <!--@star|corifeus-utils-->
-
-[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
-
----
-
-
-
-
-### 🚅 Find the closest or exact value using binary search <!--@star|p3x-binary-search-closest-->
+### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
 
 [README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
 
@@ -248,7 +221,34 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread <!--@star|p3x-json2xls-worker-thread-->
+### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
+
+[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+
+---
+
+
+
+
+### <!--@star|corifeus-app-server-patrikx3--> 🖥️ Corifeus App Server P3X
+
+[README](https://corifeus.com/corifeus-app-server-patrikx3) | [Github](https://github.com/patrikx3/corifeus-app-server-patrikx3)
+
+---
+
+
+
+
+### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
+
+[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+
+---
+
+
+
+
+### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
 
 [README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
 
@@ -257,7 +257,7 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### 💣 Tools <!--@star|p3x-tools-->
+### <!--@star|p3x-tools--> 💣 Tools
 
 [README](https://corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)
 
@@ -339,7 +339,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.129
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.132
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 

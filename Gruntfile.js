@@ -42,7 +42,7 @@ module.exports = (grunt) => {
 
                 replace += `
 
-### ${desc} ${hiddenStars}
+### ${hiddenStars} ${desc}
 
 [README](https://corifeus.com/${pkg.corifeus.reponame === 'corifeus' ? 'matrix' : pkg.corifeus.reponame}) | [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})
 
