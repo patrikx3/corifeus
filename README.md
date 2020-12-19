@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2020.10.132
+# 🎮 Corifeus Matrix v2020.10.134
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v14.15.1
+v14.15.3
 ```
 
 The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
@@ -176,15 +176,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-verdaccio-cli--> 🍶 Verdaccio CLI
-
-[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
-
----
-
-
-
-
 ### <!--@star|p3x-xml2json--> Converts xml to json and vice-versa, using node-expat.
 
 [README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
@@ -194,9 +185,9 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
+### <!--@star|p3x-verdaccio-cli--> 🍶 Verdaccio CLI
 
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
 ---
 
@@ -212,18 +203,18 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
+### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
-[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
 ---
 
 
 
 
-### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
+### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
 
-[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
 
 ---
 
@@ -242,6 +233,15 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
 
 [README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+
+---
+
+
+
+
+### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
+
+[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
 
 ---
 
@@ -339,7 +339,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.132
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2020.10.134
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
