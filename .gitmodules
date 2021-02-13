@@ -12,8 +12,3 @@ branch=master
 path=corifeus-app-web-pages
 url=https://github.com/patrikx3/corifeus-app-web-pages
 branch=master
-
-[submodule "corifeus-app-server-patrikx3"]
-path=corifeus-app-server-patrikx3
-url=https://github.com/patrikx3/corifeus-app-server-patrikx3
-branch=master
