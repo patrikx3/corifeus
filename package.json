@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "2021.4.109",
+    "version": "2021.4.112",
     "corifeus": {
         "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
@@ -56,8 +56,8 @@
     },
     "homepage": "https://corifeus.com/matrix",
     "devDependencies": {
-        "corifeus-builder": "^2021.4.118",
-        "corifeus-utils": "^2021.4.109"
+        "corifeus-builder": "^2021.4.121",
+        "corifeus-utils": "^2021.4.112"
     },
     "engines": {
         "node": ">=12.13.0"
