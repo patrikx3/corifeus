@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2021.4.112
+# 🎮 Corifeus Matrix v2021.4.114
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v14.15.5
+v14.16.0
 ```
 
 The ```async``` and ```await``` keywords are required. Only the latest LTS variant is supported.
@@ -149,6 +149,15 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
+### <!--@star|p3x-html-pdf--> 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf
+
+[README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
+
+---
+
+
+
+
 ### <!--@star|p3x-redis-ui-material--> 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io
 
 [README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
@@ -161,15 +170,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
 
 [README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
-
----
-
-
-
-
-### <!--@star|p3x-html-pdf--> 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf
-
-[README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
 
 ---
 
@@ -330,7 +330,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2021.4.112
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2021.4.114
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
