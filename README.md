@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2021.10.102
+# 🎮 Corifeus Matrix v2021.10.106
 
 
 
@@ -75,18 +75,18 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
+### <!--@star|p3x-ramdisk--> 💾 Linux RAM disk persistent with Systemd timer, service and suspend
 
-[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
+[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
 
 ---
 
 
 
 
-### <!--@star|p3x-ramdisk--> 💾 Linux RAM disk persistent with Systemd timer, service and suspend
+### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
 
-[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
+[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
 
 ---
 
@@ -129,15 +129,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-redis-ui-server--> 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface
-
-[README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
-
----
-
-
-
-
 ### <!--@star|corifeus--> 🎮 Corifeus Matrix
 
 [README](https://corifeus.com/matrix) | [Github](https://github.com/patrikx3/corifeus)
@@ -147,9 +138,9 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-redis-ui-material--> 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io
+### <!--@star|p3x-redis-ui-server--> 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface
 
-[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
+[README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
 
 ---
 
@@ -165,18 +156,18 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-angular-http-cache-interceptor--> 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request.
+### <!--@star|p3x-redis-ui-material--> 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io
 
-[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
 
 ---
 
 
 
 
-### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
+### <!--@star|p3x-angular-http-cache-interceptor--> 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request
 
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
 ---
 
@@ -192,9 +183,18 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-xml2json--> Converts xml to json and vice-versa, using node-expat.
+### <!--@star|p3x-xml2json--> Converts xml to json and vice-versa, using node-expat
 
 [README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+
+---
+
+
+
+
+### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
+
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -204,6 +204,15 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 ### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
 [README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+
+---
+
+
+
+
+### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
+
+[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
 
 ---
 
@@ -237,15 +246,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
-
-[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
-
----
-
-
-
-
 ### <!--@star|p3x-tools--> 💣 Tools
 
 [README](https://corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)
@@ -266,7 +266,6 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 <!--
 #### [Design Patterns](artifacts/readme/patterns.md)
--->
 
 ## Scenarios
 Web, Android, iOs, Cli, Rest, Socket.IO, Electron, Ionic
@@ -291,6 +290,9 @@ Requires NodeJs latest version, GIT and ```npm install -g npm-check-updates grun
 iwr https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.ps1 -UseBasicParsing | iex
 ```
 
+-->
+
+
 <!--
 # or, add credit
 $cred = Get-Credential
@@ -298,10 +300,14 @@ iwr https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.ps1  -Credenti
 ```
 --->
 
+<!--
+
 ## \*nix / BSD / Bash / Curl
 ```bash
 curl -sL https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.sh | bash -
 ```
+--->
+
 
 <!--
 # or
@@ -309,9 +315,14 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 ```
 --->
 
+<!--
+
 # Inception
 
 2016\. December 25.
+
+--->
+
 
 [//]: #@corifeus-footer
 
@@ -328,7 +339,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2021.10.102
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2021.10.106
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
