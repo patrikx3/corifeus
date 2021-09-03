@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2021.10.106
+# 🎮 Corifeus Matrix v2021.10.112
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v14.17.2
+v14.17.6
 ```
 
 Only the latest LTS variant is supported.
@@ -75,18 +75,18 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-ramdisk--> 💾 Linux RAM disk persistent with Systemd timer, service and suspend
+### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
 
-[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
+[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
 
 ---
 
 
 
 
-### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
+### <!--@star|p3x-ramdisk--> 💾 Linux RAM disk persistent with Systemd timer, service and suspend
 
-[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
+[README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
 
 ---
 
@@ -174,9 +174,9 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|p3x-verdaccio-cli--> 🍶 Verdaccio CLI
+### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
 
-[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -192,9 +192,9 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
+### <!--@star|p3x-verdaccio-cli--> 🍶 Verdaccio CLI
 
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
 ---
 
@@ -228,18 +228,18 @@ We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack
 
 
 
-### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
+### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
 
-[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
 
 ---
 
 
 
 
-### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
+### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
 
-[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
 
 ---
 
@@ -339,7 +339,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2021.10.106
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2021.10.112
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
