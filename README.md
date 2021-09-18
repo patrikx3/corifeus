@@ -40,9 +40,6 @@ Only the latest LTS variant is supported.
 
 Corifeus Matrix provides micro-services and open source applications on GitHub.
 
-## Development / project delivery
-We specialise in ERP systems using MEAN (A - meaning AngularJs or Angular) stack. Consult @ https://patrikx3.com/contact for a quote.
-
 ## Applications
   
 [//]: #@corifeus-projects
