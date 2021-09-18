@@ -35,10 +35,7 @@ Only the latest LTS variant is supported.
                         
 [//]: #@corifeus-header:end
 
-
-# About
-
-Corifeus Matrix provides micro-services and open source applications on GitHub.
+We provide micro-services and open source applications on GitHub.
 
 ## Applications
   
