@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2021.10.125
+# 🎮 Corifeus Matrix v2021.10.128
 
 
 
@@ -22,7 +22,7 @@
 
 ### Built on NodeJs
 ```txt
-v14.18.0
+v14.18.1
 ```
 
 
@@ -149,6 +149,15 @@ We provide micro-services and open source applications on GitHub.
 
 
 
+### <!--@star|p3x-xml2json--> Converts xml to json and vice-versa, using node-expat
+
+[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+
+---
+
+
+
+
 ### <!--@star|p3x-angular-http-cache-interceptor--> 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request
 
 [README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
@@ -176,9 +185,9 @@ We provide micro-services and open source applications on GitHub.
 
 
 
-### <!--@star|p3x-xml2json--> Converts xml to json and vice-versa, using node-expat
+### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
 
-[README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
 
 ---
 
@@ -188,15 +197,6 @@ We provide micro-services and open source applications on GitHub.
 ### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
 [README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
-
----
-
-
-
-
-### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
-
-[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
 
 ---
 
@@ -324,7 +324,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2021.10.125
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2021.10.128
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
