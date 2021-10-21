@@ -1,0 +1,9 @@
+@import "corifeus-web-material/src/scss/material/mixins";
+
+.cory-mat-theme-light-indigo-pink {
+    $primary: mat-palette($mat-indigo);
+    $accent: mat-palette($mat-pink, A200, A100, A400);
+    @include cory-mat-theme('light', $primary, $accent);
+}
+
+

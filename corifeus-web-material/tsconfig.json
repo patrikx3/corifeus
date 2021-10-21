@@ -1,0 +1,34 @@
+{
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "baseUrl": "./",
+        "target": "es2015",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "noImplicitAny": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "lib": [
+            "es2018",
+            "dom"
+        ],
+        "paths": {
+            "*": [
+                "node_modules/@types/*",
+                "*"
+            ]
+        }
+    },
+    "includes": [
+        "src/angular/**/*",
+        "test/angular-webpack/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "src/angular/bundle.aot.ts",
+        "test/angular-karma",
+        "test/angular-webpack/angular/bundle.aot.ts"
+    ]
+}
