@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2022.4.101
+# 🎮 Corifeus Matrix v2022.4.103
 
 
 
@@ -22,7 +22,7 @@
 ### Built on NodeJs version
 
 ```txt
-v16.13.1
+v16.13.2
 ```
 
 
@@ -34,7 +34,13 @@ v16.13.1
                         
 [//]: #@corifeus-header:end
 
-The fun matrix derivate.
+The fun matrix derivate. 
+
+<!--
+I specialise in frontend AU7 development under architecture. Frontend function is available to borrow / rent / buy.
+
+Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhető / vásárolható
+-->
 
 ## Applications
   
@@ -131,15 +137,6 @@ The fun matrix derivate.
 
 
 
-### <!--@star|p3x-angular-http-cache-interceptor--> 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request
-
-[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
-
----
-
-
-
-
 ### <!--@star|p3x-html-pdf--> 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf
 
 [README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
@@ -161,6 +158,15 @@ The fun matrix derivate.
 ### <!--@star|p3x-xml2json--> Converts xml to json and vice-versa, using node-expat
 
 [README](https://corifeus.com/xml2json) | [Github](https://github.com/patrikx3/xml2json)
+
+---
+
+
+
+
+### <!--@star|p3x-angular-http-cache-interceptor--> 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request
+
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
 
 ---
 
@@ -324,7 +330,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2022.4.101
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2022.4.103
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
