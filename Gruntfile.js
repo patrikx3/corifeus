@@ -34,6 +34,8 @@ module.exports = (grunt) => {
                 return prev
             }, {})
 
+            //console.log(JSON.stringify(sortedObject, null, 4))
+
             Object.keys(sortedObject).forEach((key) => {
                 const pkg = sortedObject[key]
                 const desc = pkg.description ;
