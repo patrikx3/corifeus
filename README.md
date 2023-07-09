@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2023.4.103
+# 🎮 Corifeus Matrix v2023.10.104
 
 
 
@@ -182,18 +182,18 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
+### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
 
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
 
 ---
 
 
 
 
-### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
+### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
 
-[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -227,18 +227,18 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
+### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
 
-[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
 
 ---
 
 
 
 
-### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
+### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
 
-[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
 
 ---
 
@@ -330,7 +330,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2023.4.103
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2023.10.104
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
