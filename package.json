@@ -56,7 +56,7 @@
     },
     "homepage": "https://corifeus.com/matrix",
     "devDependencies": {
-        "corifeus-builder": "^2023.10.125",
+        "corifeus-builder": "^2023.10.129",
         "corifeus-utils": "^2023.10.128"
     },
     "engines": {
