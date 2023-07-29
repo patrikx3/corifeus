@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2023.10.113
+# 🎮 Corifeus Matrix v2023.10.115
 
 
 
@@ -22,7 +22,7 @@
 ### Built on NodeJs version
 
 ```txt
-v20.4.0
+v20.5.0
 ```
 
 
@@ -173,15 +173,6 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
-
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
-
----
-
-
-
-
 ### <!--@star|p3x-verdaccio-cli--> 🍶 Verdaccio CLI
 
 [README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
@@ -200,6 +191,24 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
+### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
+
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+
+---
+
+
+
+
+### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
+
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+
+---
+
+
+
+
 ### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
 
 [README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
@@ -212,15 +221,6 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 ### <!--@star|p3x-tools--> 💣 Tools
 
 [README](https://corifeus.com/tools) | [Github](https://github.com/patrikx3/tools)
-
----
-
-
-
-
-### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
-
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
 ---
 
@@ -330,7 +330,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2023.10.113
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2023.10.115
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
