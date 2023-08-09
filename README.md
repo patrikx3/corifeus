@@ -8,7 +8,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2023.10.115
+# 🎮 Corifeus Matrix v2023.10.117
 
 
 
@@ -92,7 +92,7 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-openwrt-insomnia--> ☕ OpenWrt with latest NodeJs for Linksys WRT
+### <!--@star|p3x-openwrt-insomnia--> ☕ OpenWrt Insomnia for Linksys WRT
 
 [README](https://corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)
 
@@ -330,7 +330,7 @@ All my domains ([patrikx3.com](https://patrikx3.com) and [corifeus.com](https://
 
 ---
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2023.10.115
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2023.10.117
 
 [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
