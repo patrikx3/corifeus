@@ -12,13 +12,13 @@
 
 ```camelCase = theFirstIsSmallTheRestIsCapital```  
 
-```kabeb-case = meaning-only-lower-case-and-a-z-and-dash-and-numbers```  
+```kebab-case = meaning-only-lower-case-and-a-z-and-dash-and-numbers```  
   
 ```PascalCase = JustAlphaAndAlwaysCapitalWords``` 
   
 
 ## CSS Prefix
-``` kabeb-case ```  
+``` kebab-case ```  
 
 **Prefix so that get away form namespace clashes.**  
   
@@ -29,25 +29,25 @@
 ```
 
 ## HTML Prefix
-``` kabeb-case ```  
+``` kebab-case ```  
 
 **Prefix so that get away form namespace clashes.** It is both for tags and attributes.  
   
 ``cory = corifeus``
 
 ```html
-<cory-element cory-attribute="kabeb-case" class="cory-something"/>
+<cory-element cory-attribute="kebab-case" class="cory-something"/>
 ```
 
 ## Url
-``` kabeb-case ```  
+``` kebab-case ```  
 
 ```bash
 https://localhost/very-long-sentance/is/just/kebab-case.html
 ```
 
 ## Path
-``` kabeb-case ```  
+``` kebab-case ```  
 
 ```bash
 /module-one/love/live/path.js
@@ -56,7 +56,7 @@ https://localhost/very-long-sentance/is/just/kebab-case.html
 ```
 
 ## Filename
-``` kabeb-case ```   
+``` kebab-case ```   
 
 
 ```bash
@@ -67,14 +67,14 @@ camel-case.js
 camel-case-is-kebab-as-well.js
 
 // html file
-kabeb-case.html
+kebab-case.html
 
 // regular file
 kebab-case.any
-kabeb-case.js
-kabeb-case.pdf
-kabeb-case.html
-kabeb-case.css
+kebab-case.js
+kebab-case.pdf
+kebab-case.html
+kebab-case.css
 ```
 
 ## Namespace
