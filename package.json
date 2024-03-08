@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "2024.4.104",
+    "version": "2024.4.108",
     "corifeus": {
         "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
@@ -14,16 +14,16 @@
             {
                 "name": "menu-corifeus-architecture",
                 "link": "artifacts/readme/arthictecture/overview.html"
-            },
-            {
-                "name": "menu-corifeus-more-origin",
-                "link": "https://en.wikipedia.org/wiki/Coryphaeus"
             }
         ],
         "menu-old": [
             {
                 "name": "menu-corifeus-patterns",
                 "link": "artifacts/readme/patterns.html"
+            },
+            {
+                "name": "menu-corifeus-more-origin",
+                "link": "https://en.wikipedia.org/wiki/Coryphaeus"
             }
         ],
         "nodejs": "v20.11.1",
@@ -56,8 +56,8 @@
     },
     "homepage": "https://corifeus.com/matrix",
     "devDependencies": {
-        "corifeus-builder": "^2024.4.106",
-        "corifeus-utils": "^2024.4.106"
+        "corifeus-builder": "^2024.4.123",
+        "corifeus-utils": "^2024.4.115"
     },
     "engines": {
         "node": ">=12.13.0"
