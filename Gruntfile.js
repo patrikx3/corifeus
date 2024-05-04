@@ -24,7 +24,7 @@ module.exports = (grunt) => {
 
             finds = finds.concat(findsP3x)
             */
-            const packages = (await utils.http.request('https://server.patrikx3.com/api/patrikx3/git/repos')).body.repo
+            const packages = (await utils.http.request('https://server.patrikx3.com/api/patrikx3/git/repos?renew=1')).body.repo
 
             let sortedObject = {}
             sortedObject = Object.keys(packages).sort((a, b) => {
