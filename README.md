@@ -5,7 +5,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2024.4.116
+# 🎮 Corifeus Matrix v2025.4.102
 
 
 
@@ -19,7 +19,7 @@
 ### Built on NodeJs version
 
 ```txt
-v22.3.0
+v22.13.0
 ```
 
 
@@ -33,11 +33,32 @@ v22.3.0
 
 The fun nonsense passion derivate. 
 
+## Quick and Affordable Web Development Services
+
+If you want to quickly and affordably develop your next digital project, visit [corifeus.hu](https://corifeus.hu) for expert solutions tailored to your needs.
+
+---
+
+## Powerful Online Networking Tool  
+
+Discover the powerful and free online networking tool at [network.corifeus.com](https://network.corifeus.com).  
+
+**Free**  
+Designed for professionals and enthusiasts, this tool provides essential features for network analysis, troubleshooting, and management.  
+Additionally, it offers tools for:  
+- Monitoring TCP, HTTP, and Ping to ensure optimal network performance and reliability.  
+- Status page management to track uptime, performance, and incidents in real time with customizable dashboards.  
+
+All these features are completely free to use.
+
+
 <!--
 I specialise in frontend AU7 development under architecture. Frontend function is available to borrow / rent / buy.
 
 Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhető / vásárolható
 -->
+
+
 
 ## Applications
   
@@ -71,15 +92,6 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
-
-[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
-
----
-
-
-
-
 ### <!--@star|p3x-ramdisk--> 💾 Linux RAM disk persistent with Systemd timer, service and suspend
 
 [README](https://corifeus.com/ramdisk) | [Github](https://github.com/patrikx3/ramdisk)
@@ -89,18 +101,18 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-freenom--> 🌐 Freenom API - Promise and auto renew expiring domains
+### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
 
-[README](https://corifeus.com/freenom) | [Github](https://github.com/patrikx3/freenom)
+[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
 
 ---
 
 
 
 
-### <!--@star|p3x-openwrt-insomnia--> ☕ OpenWrt Insomnia for Linksys WRT
+### <!--@star|p3x-freenom--> 🌐 Freenom API - Promise and auto renew expiring domains
 
-[README](https://corifeus.com/openwrt-insomnia) | [Github](https://github.com/patrikx3/openwrt-insomnia)
+[README](https://corifeus.com/freenom) | [Github](https://github.com/patrikx3/freenom)
 
 ---
 
@@ -152,6 +164,15 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
+### <!--@star|p3x-angular-http-cache-interceptor--> 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request
+
+[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+
+---
+
+
+
+
 ### <!--@star|p3x-html-pdf--> 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf
 
 [README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
@@ -161,9 +182,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-angular-http-cache-interceptor--> 🔥 Cache every request in Angular, not only the GET, but all methods of this interceptor, and allows you to interact with the interceptor via specific headers and modify the request, and these specific headers will be not included in the final request
+### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
 
-[README](https://corifeus.com/angular-http-cache-interceptor) | [Github](https://github.com/patrikx3/angular-http-cache-interceptor)
+[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
 
 ---
 
@@ -197,18 +218,18 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
+### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
 
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
 
 ---
 
 
 
 
-### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
+### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
-[README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
 ---
 
@@ -232,22 +253,15 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-
-### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
-
-[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
-
----
-
-
-
 [//]: #@corifeus-projects:end
 
 ## History ...
 
-#### [Code style](artifacts/readme/code-style.md)
 
-#### [Architecture](artifacts/readme/arthictecture/overview.md)
+
+[Code style](artifacts/readme/code-style.md)
+
+[Architecture](artifacts/readme/arthictecture/overview.md)
 
 <!-- 
 #### [The name of the original company](https://en.wikipedia.org/wiki/Coryphaeus)
@@ -318,6 +332,24 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 ---
 
 
+## Quick and Affordable Web Development Services
+
+If you want to quickly and affordably develop your next digital project, visit [corifeus.hu](https://corifeus.hu) for expert solutions tailored to your needs.
+
+---
+
+## Powerful Online Networking Tool  
+
+Discover the powerful and free online networking tool at [network.corifeus.com](https://network.corifeus.com).  
+
+**Free**  
+Designed for professionals and enthusiasts, this tool provides essential features for network analysis, troubleshooting, and management.  
+Additionally, it offers tools for:  
+- Monitoring TCP, HTTP, and Ping to ensure optimal network performance and reliability.  
+- Status page management to track uptime, performance, and incidents in real time with customizable dashboards.  
+
+All these features are completely free to use.
+  
 ## Support Our Open-Source Project ❤️
 If you appreciate our work, consider starring this repository or making a donation to support server maintenance and ongoing development. Your support means the world to us—thank you!
 
@@ -325,7 +357,7 @@ If you appreciate our work, consider starring this repository or making a donati
 Our server may occasionally be down, but please be patient. Typically, it will be back online within 15-30 minutes. We appreciate your understanding.
 
 ### About My Domains
-All my domains, including [patrikx3.com](https://patrikx3.com) and [corifeus.com](https://corifeus.com), are developed in my spare time. While you may encounter minor errors, the sites are generally stable and fully functional.
+All my domains, including [patrikx3.com](https://patrikx3.com), [corifeus.hu](https://corifeus.hu) and [corifeus.com](https://corifeus.com), are developed in my spare time. While you may encounter minor errors, the sites are generally stable and fully functional.
 
 ### Versioning Policy
 **Version Structure:** We follow a Major.Minor.Patch versioning scheme:
@@ -338,7 +370,7 @@ All my domains, including [patrikx3.com](https://patrikx3.com) and [corifeus.com
 ---
 
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2024.4.116
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2025.4.102
 
  [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 

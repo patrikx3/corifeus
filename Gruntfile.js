@@ -24,7 +24,7 @@ module.exports = (grunt) => {
 
             finds = finds.concat(findsP3x)
             */
-            const packages = (await utils.http.request('https://server.patrikx3.com/api/patrikx3/git/repos?renew=1')).body.repo
+            const packages = (await utils.http.request('https://network.corifeus.com/public/api/repo?renew=1')).body.repo
 
             let sortedObject = {}
             sortedObject = Object.keys(packages).sort((a, b) => {
@@ -55,6 +55,7 @@ module.exports = (grunt) => {
             })
 
             const config = grunt.config.get('cory-replace');
+
             config['projects'] = {
                 prefix: '[//]: #@corifeus-projects',
                 postfix: '[//]: #@corifeus-projects:end',
