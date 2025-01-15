@@ -5,7 +5,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2025.4.102
+# 🎮 Corifeus Matrix v2025.4.104
 
 
 
@@ -200,18 +200,18 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
+### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
 
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
 
 ---
 
 
 
 
-### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
+### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
 
-[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -334,7 +334,7 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ## Quick and Affordable Web Development Services
 
-If you want to quickly and affordably develop your next digital project, visit [corifeus.hu](https://corifeus.hu) for expert solutions tailored to your needs.
+If you want to quickly and affordably develop your next digital project, visit [corifeus.eu](https://corifeus.eu) for expert solutions tailored to your needs.
 
 ---
 
@@ -370,7 +370,7 @@ All my domains, including [patrikx3.com](https://patrikx3.com), [corifeus.hu](ht
 ---
 
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2025.4.102
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2025.4.104
 
  [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
