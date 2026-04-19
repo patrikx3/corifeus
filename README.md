@@ -21,7 +21,7 @@
 ### 🛠️ Built on NodeJs version
 
 ```txt
-v22.13.1
+v24.14.1
 ```
 
 
@@ -90,27 +90,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
-
-[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
-
----
-
-
-
-
 ### <!--@star|p3x-freenom--> 🌐 Freenom API - Promise and auto renew expiring domains
 
 [README](https://corifeus.com/freenom) | [Github](https://github.com/patrikx3/freenom)
-
----
-
-
-
-
-### <!--@star|p3x-redis-ui-server--> 🏍️ The p3x-redis-ui-server package motor that is connected to the p3x-redis-ui-material web user interface
-
-[README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
 
 ---
 
@@ -135,9 +117,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-redis-ui-material--> 💿 The p3x-redis-ui-material web interface that connects to the p3x-redis-ui-server via http and socket.io
+### <!--@star|p3x-html-pdf--> 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf
 
-[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
+[README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
 
 ---
 
@@ -162,9 +144,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-html-pdf--> 📃 Generates PDF from HTML with custom headers and footers with wkhtmltopdf
+### <!--@star|p3x-verdaccio-cli--> 🍶 Verdaccio CLI
 
-[README](https://corifeus.com/html-pdf) | [Github](https://github.com/patrikx3/html-pdf)
+[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
 ---
 
@@ -174,15 +156,6 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 ### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
 
 [README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
-
----
-
-
-
-
-### <!--@star|p3x-verdaccio-cli--> 🍶 Verdaccio CLI
-
-[README](https://corifeus.com/verdaccio-cli) | [Github](https://github.com/patrikx3/verdaccio-cli)
 
 ---
 
@@ -207,6 +180,15 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
+### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
+
+[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+
+---
+
+
+
+
 ### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
 [README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
@@ -216,9 +198,18 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
+### <!--@star|p3x-redis-ui-material--> 💿 P3X Redis UI triple frontend — Angular + React/MUI + Vue/Vuetify with 54 languages, 7 themes, Socket.IO, desktop notifications, and full feature parity
 
-[README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
+
+---
+
+
+
+
+### <!--@star|p3x-redis-ui-server--> 🏍️ P3X Redis UI server — Socket.IO backend for the dual Angular + React frontend with AI queries, 54 languages, and auto data decompression
+
+[README](https://corifeus.com/redis-ui-server) | [Github](https://github.com/patrikx3/redis-ui-server)
 
 ---
 
@@ -237,6 +228,33 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 ### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
 
 [README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+
+---
+
+
+
+
+### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
+
+[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
+
+---
+
+
+
+
+### <!--@star|p3x-meet-assistant--> 🎙️🧠 Real-time AI speech-to-text for meetings with GPT-4o Transcribe and GPU speaker diarization
+
+[README](https://corifeus.com/meet-assistant) | [Github](https://github.com/patrikx3/meet-assistant)
+
+---
+
+
+
+
+### <!--@star|p3x-network-mcp--> 🔍 P3X Network MCP: AI-powered network analysis MCP server
+
+[README](https://corifeus.com/network-mcp) | [Github](https://github.com/patrikx3/network-mcp)
 
 ---
 

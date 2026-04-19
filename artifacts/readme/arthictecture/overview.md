@@ -10,7 +10,7 @@
 
 # Architecture
 
-![Corifeus Architecture](https://patrikx3.com/files/playground/corifeus-architecture/corifeus-p3x-tdd-component.svg)
+![Corifeus Architecture](https://patrikx3.com/files/software/corifeus-architecture/corifeus-p3x-tdd-component.svg)
 
 <!--
 ## Interoperability

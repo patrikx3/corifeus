@@ -28,7 +28,7 @@ module.exports = (grunt) => {
 
             let sortedObject = {}
             sortedObject = Object.keys(packages).sort((a, b) => {
-                return packages[b].corifeus.stargazers_count - packages[a].corifeus.stargazers_count
+                return (packages[b].corifeus.stargazers_count || 0) - (packages[a].corifeus.stargazers_count || 0)
             }).reduce((prev, curr, i) => {
                 prev[i] = packages[curr]
                 return prev
@@ -40,13 +40,15 @@ module.exports = (grunt) => {
                 const pkg = sortedObject[key]
                 const desc = pkg.description ;
 
-                const hiddenStars = `<!--@star|${pkg.name}-->`;;
+                const stargazers = pkg.corifeus.stargazers_count;
+                const hiddenStars = stargazers !== undefined ? `<!--@star|${pkg.name}-->` : '';
+                const githubLink = stargazers !== undefined ? ` | [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})` : '';
 
                 replace += `
 
 ### ${hiddenStars} ${desc}
 
-[README](https://corifeus.com/${pkg.corifeus.reponame === 'corifeus' ? 'matrix' : pkg.corifeus.reponame}) | [Github](https://github.com/patrikx3/${pkg.corifeus.reponame})
+[README](https://corifeus.com/${pkg.corifeus.reponame === 'corifeus' ? 'matrix' : pkg.corifeus.reponame})${githubLink}
 
 ---
 
