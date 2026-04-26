@@ -1,6 +1,6 @@
 {
     "name": "corifeus",
-    "version": "2025.4.116",
+    "version": "2026.4.117",
     "corifeus": {
         "icon": "fab fa-superpowers",
         "inception": "12/25/2016",
@@ -26,7 +26,7 @@
                 "link": "https://en.wikipedia.org/wiki/Coryphaeus"
             }
         ],
-        "nodejs": "v22.13.1",
+        "nodejs": "v24.14.1",
         "opencollective": false,
         "reponame": "corifeus",
         "build": true
@@ -56,7 +56,7 @@
     },
     "homepage": "https://corifeus.com/matrix",
     "devDependencies": {
-        "corifeus-builder": "^2025.4.135",
+        "corifeus-builder": "^2026.4.143",
         "corifeus-utils": "^2025.4.123"
     },
     "engines": {

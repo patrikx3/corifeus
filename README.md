@@ -5,7 +5,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2025.4.116
+# 🎮 Corifeus Matrix v2026.4.117
 
 
   
@@ -171,9 +171,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
+### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
 
 ---
 
@@ -189,18 +189,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
+### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
 
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
-
----
-
-
-
-
-### <!--@star|p3x-redis-ui-material--> 💿 P3X Redis UI triple frontend — Angular + React/MUI + Vue/Vuetify with 54 languages, 7 themes, Socket.IO, desktop notifications, and full feature parity
-
-[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -225,9 +216,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
+### <!--@star|p3x-redis-ui-material--> 💿 P3X Redis UI triple frontend — Angular + React/MUI + Vue/Vuetify with 54 languages, 7 themes, Socket.IO, desktop notifications, and full feature parity
 
-[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
+[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
 
 ---
 
@@ -243,9 +234,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-meet-assistant--> 🎙️🧠 Real-time AI speech-to-text for meetings with GPT-4o Transcribe and GPU speaker diarization
+### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
 
-[README](https://corifeus.com/meet-assistant) | [Github](https://github.com/patrikx3/meet-assistant)
+[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
 
 ---
 
@@ -255,6 +246,24 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 ### <!--@star|p3x-network-mcp--> 🔍 P3X Network MCP: AI-powered network analysis MCP server
 
 [README](https://corifeus.com/network-mcp) | [Github](https://github.com/patrikx3/network-mcp)
+
+---
+
+
+
+
+### <!--@star|p3x-meet-assistant--> 🎙️🧠 P3X Meet Assistant — live meeting transcription with OpenAI GPT-4o Transcribe, GPU speaker diarization, and 10-language support
+
+[README](https://corifeus.com/meet-assistant) | [Github](https://github.com/patrikx3/meet-assistant)
+
+---
+
+
+
+
+### <!--@star|p3x-onenote-mcp--> 📚 P3X OneNote MCP — Model Context Protocol server for Microsoft OneNote with read/write, table patching, strikethrough and cost calculation tools
+
+[README](https://corifeus.com/onenote-mcp) | [Github](https://github.com/patrikx3/onenote-mcp)
 
 ---
 
@@ -297,7 +306,7 @@ Requires NodeJs latest version, GIT and ```npm install -g npm-check-updates grun
 
 ## Windows / Powershell
 ```powershell
-iwr https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.ps1 -UseBasicParsing | iex
+iwr https://raw.githubusercontent.com/patrikx3/corifeus/main/scripts/init.ps1 -UseBasicParsing | iex
 ```
 
 -->
@@ -306,7 +315,7 @@ iwr https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.ps1 
 <!--
 # or, add credit
 $cred = Get-Credential
-iwr https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.ps1  -Credential $cred -UseBasicParsing | iex
+iwr https://git.patrikx3.com/corifeus.git/raw/main/scripts/init.ps1  -Credential $cred -UseBasicParsing | iex
 ```
 --->
 
@@ -314,14 +323,14 @@ iwr https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.ps1  -Credenti
 
 ## \*nix / BSD / Bash / Curl
 ```bash
-curl -sL https://raw.githubusercontent.com/patrikx3/corifeus/master/scripts/init.sh | bash -
+curl -sL https://raw.githubusercontent.com/patrikx3/corifeus/main/scripts/init.sh | bash -
 ```
 --->
 
 
 <!--
 # or
-curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/init.sh | bash -
+curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/main/scripts/init.sh | bash -
 ```
 --->
 
@@ -338,23 +347,22 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/master/scripts/in
 
 ---
 
-## 🚀 Quick and Affordable Web Development Services
+# Corifeus Network
 
-If you want to quickly and affordably develop your next digital project, visit [corifeus.eu](https://corifeus.eu) for expert solutions tailored to your needs.
+AI-powered network & email toolkit — free, no signup.
 
----
+**Web** · [network.corifeus.com](https://network.corifeus.com)  **MCP** · [`npm i -g p3x-network-mcp`](https://www.npmjs.com/package/p3x-network-mcp)
 
-## 🌐 Powerful Online Networking Tool  
-
-Discover the powerful and free online networking tool at [network.corifeus.com](https://network.corifeus.com).  
-
-**🆓 Free**  
-Designed for professionals and enthusiasts, this tool provides essential features for network analysis, troubleshooting, and management.  
-Additionally, it offers tools for:  
-- 📡 Monitoring TCP, HTTP, and Ping to ensure optimal network performance and reliability.  
-- 📊 Status page management to track uptime, performance, and incidents in real time with customizable dashboards.  
-
-All these features are completely free to use.  
+- **AI Network Assistant** — ask in plain language, get a full domain health report
+- **Network Audit** — DNS, SSL, security headers, DNSBL, BGP, IPv6, geolocation in one call
+- **Diagnostics** — DNS lookup & global propagation, WHOIS, reverse DNS, HTTP check, my-IP
+- **Mail Tester** — live SPF/DKIM/DMARC + spam score + AI fix suggestions, results emailed (localized)
+- **Monitoring** — TCP / HTTP / Ping with alerts and public status pages
+- **MCP server** — 17 tools exposed to Claude Code, Codex, Cursor, any MCP client
+- **Install** — `claude mcp add p3x-network -- npx p3x-network-mcp`
+- **Try** — *"audit example.com"*, *"why do my emails land in spam? test me@example.com"*
+- **Source** — [patrikx3/network](https://github.com/patrikx3/network) · [patrikx3/network-mcp](https://github.com/patrikx3/network-mcp)
+- **Contact** — [patrikx3.com](https://www.patrikx3.com/en/front/contact) · [donate](https://paypal.me/patrikx3)
 
 ---
 
@@ -376,10 +384,8 @@ All my domains, including [patrikx3.com](https://patrikx3.com), [corifeus.eu](ht
 
 **🚨 Important Changes:** Any breaking changes are prominently noted in the readme to keep you informed.
 
----
 
-
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2025.4.116
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2026.4.117
 
  [![Donate for PatrikX3 / P3X](https://img.shields.io/badge/Donate-PatrikX3-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
