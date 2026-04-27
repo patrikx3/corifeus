@@ -5,7 +5,7 @@
 
 
 ---
-# 🎮 Corifeus Matrix v2026.4.117
+# 🎮 Corifeus Matrix v2026.4.119
 
 
   
@@ -162,18 +162,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
+### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
 
-[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
-
----
-
-
-
-
-### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
-
-[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
 
 ---
 
@@ -189,9 +180,27 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
+### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
-[README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
+[README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
+
+---
+
+
+
+
+### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
+
+[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
+
+---
+
+
+
+
+### <!--@star|p3x-redis-ui-material--> 💿 P3X Redis UI triple frontend — Angular + React/MUI + Vue/Vuetify with 54 languages, 7 themes, Socket.IO, desktop notifications, and full feature parity
+
+[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
 
 ---
 
@@ -216,9 +225,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-redis-ui-material--> 💿 P3X Redis UI triple frontend — Angular + React/MUI + Vue/Vuetify with 54 languages, 7 themes, Socket.IO, desktop notifications, and full feature parity
+### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
 
-[README](https://corifeus.com/redis-ui-material) | [Github](https://github.com/patrikx3/redis-ui-material)
+[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
 
 ---
 
@@ -234,27 +243,18 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|corifeus-builder--> 🏗️ Corifeus Builder
-
-[README](https://corifeus.com/corifeus-builder) | [Github](https://github.com/patrikx3/corifeus-builder)
-
----
-
-
-
-
-### <!--@star|p3x-network-mcp--> 🔍 P3X Network MCP: AI-powered network analysis MCP server
-
-[README](https://corifeus.com/network-mcp) | [Github](https://github.com/patrikx3/network-mcp)
-
----
-
-
-
-
 ### <!--@star|p3x-meet-assistant--> 🎙️🧠 P3X Meet Assistant — live meeting transcription with OpenAI GPT-4o Transcribe, GPU speaker diarization, and 10-language support
 
 [README](https://corifeus.com/meet-assistant) | [Github](https://github.com/patrikx3/meet-assistant)
+
+---
+
+
+
+
+### <!--@star|p3x-network-mcp--> 🔍 P3X Network MCP — Model Context Protocol server exposing 17 DNS, SSL, WHOIS, email deliverability, and security tools to any MCP client
+
+[README](https://corifeus.com/network-mcp) | [Github](https://github.com/patrikx3/network-mcp)
 
 ---
 
@@ -347,6 +347,26 @@ curl -sL -u patrikx3 https://git.patrikx3.com/corifeus.git/raw/main/scripts/init
 
 ---
 
+# 🌐 Meet Assistant SaaS — meeting.corifeus.com
+
+Don't want to install anything? Try the **hosted version** at **[meeting.corifeus.com](https://meeting.corifeus.com)** — full meeting workflow built for European businesses, no setup, no API key, no command line.
+
+What the hosted version offers:
+
+- **21-language live translation** during the meeting
+- **AI summaries, action items, decisions, attendees, key quotes** auto-generated after every meeting
+- **Custom vocabulary** — your client / company / industry terms corrected automatically (Pro+ tier)
+- **Searchable meeting library** — find any decision or promise across all your past meetings
+- **Shareable read-only links** — send a clean meeting summary to a client or teammate, no signup needed on their end
+- **One-click email summary** after each meeting
+- **Premium engine on every plan** — no downgraded model, ever
+- **EU billing** — Stripe Tax + VAT-compliant + EUR-priced (Solo €19.99 / Pro €39.99 / Business €99.99 per month, no lock-in)
+- **GDPR-compliant by default** — browser-language auto-detection, no tracking cookies, your meetings stored encrypted
+
+Try the live demo (1 minute free, no signup) or browse the **public sample meeting** at [meeting.corifeus.com/sample](https://meeting.corifeus.com/sample).
+
+---
+
 # Corifeus Network
 
 AI-powered network & email toolkit — free, no signup.
@@ -385,7 +405,7 @@ All my domains, including [patrikx3.com](https://patrikx3.com), [corifeus.eu](ht
 **🚨 Important Changes:** Any breaking changes are prominently noted in the readme to keep you informed.
 
 
-[**CORIFEUS**](https://corifeus.com/matrix) Build v2026.4.117
+[**CORIFEUS**](https://corifeus.com/matrix) Build v2026.4.119
 
  [![Donate for PatrikX3 / P3X](https://img.shields.io/badge/Donate-PatrikX3-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software)
 
