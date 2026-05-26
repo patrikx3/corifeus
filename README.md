@@ -21,7 +21,7 @@
 ### 🛠️ Built on NodeJs version
 
 ```txt
-v24.14.1
+v24.15.0
 ```
 
 
@@ -153,9 +153,36 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
+### <!--@star|ngx-bot-ssr--> 🤖 Angular SSR for bots, prebuilt CSR shell for humans. Faster page loads for users, fully prerendered HTML for Googlebot, Bingbot, Yandex, ClaudeBot, GPTBot and link unfurlers.
+
+[README](https://corifeus.com/bot-ssr) | [Github](https://github.com/patrikx3/bot-ssr)
+
+---
+
+
+
+
 ### <!--@star|p3x-json2xls-worker-thread--> 📈 Convert JSON to Excel XLSX with offloading the constructing the data using a worker thread
 
 [README](https://corifeus.com/json2xls-worker-thread) | [Github](https://github.com/patrikx3/json2xls-worker-thread)
+
+---
+
+
+
+
+### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
+
+[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
+
+---
+
+
+
+
+### <!--@star|p3x-architect--> 📐 P3X Architect — DESIGN-ONLY dossier generator. Two AIs (Claude + Codex) cross-check each other across the RUP phases to produce a written design dossier (conventions, vision, requirements, architecture, file_tree, risks, design-findings). NEVER writes code into your project. Hand the dossier to your implementer (Claude Code, Cursor, you, your team). Default = pair mode (scout + planner, ~30-60s). Add --rup (CLI) or rup:true (MCP) for the full 7-role dossier (Inception → Elaboration, ~1-3 min). Dossier lands under agents/<slug>/.
+
+[README](https://corifeus.com/architect) | [Github](https://github.com/patrikx3/architect)
 
 ---
 
@@ -180,6 +207,15 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
+### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
+
+[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
+
+---
+
+
+
+
 ### <!--@star|grunt-p3x-express--> 🚧 Grunt Express Server updated with additional options
 
 [README](https://corifeus.com/grunt-p3x-express) | [Github](https://github.com/patrikx3/grunt-p3x-express)
@@ -189,9 +225,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-binary-search-closest--> 🚅 Find the closest or exact value using binary search
+### <!--@star|p3x-network-mcp--> 🔍 P3X Network MCP — Model Context Protocol server exposing 17 DNS, SSL, WHOIS, email deliverability, and security tools to any MCP client
 
-[README](https://corifeus.com/binary-search-closest) | [Github](https://github.com/patrikx3/binary-search-closest)
+[README](https://corifeus.com/network-mcp) | [Github](https://github.com/patrikx3/network-mcp)
 
 ---
 
@@ -234,27 +270,9 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-gitlist--> 🤖 P3X Gitlist - A decorated enhanced elegant, feature rich and modern private git ui repository viewer
-
-[README](https://corifeus.com/gitlist) | [Github](https://github.com/patrikx3/gitlist)
-
----
-
-
-
-
 ### <!--@star|p3x-meet-assistant--> 🎙️🧠 P3X Meet Assistant — live meeting transcription with OpenAI GPT-4o Transcribe, GPU speaker diarization, and 10-language support
 
 [README](https://corifeus.com/meet-assistant) | [Github](https://github.com/patrikx3/meet-assistant)
-
----
-
-
-
-
-### <!--@star|p3x-network-mcp--> 🔍 P3X Network MCP — Model Context Protocol server exposing 17 DNS, SSL, WHOIS, email deliverability, and security tools to any MCP client
-
-[README](https://corifeus.com/network-mcp) | [Github](https://github.com/patrikx3/network-mcp)
 
 ---
 
