@@ -21,7 +21,7 @@
 ### 🛠️ Built on NodeJs version
 
 ```txt
-v24.15.0
+v24.16.0
 ```
 
 
@@ -180,15 +180,6 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 
 
 
-### <!--@star|p3x-architect--> 📐 P3X Architect — DESIGN-ONLY dossier generator. Two AIs (Claude + Codex) cross-check each other across the RUP phases to produce a written design dossier (conventions, vision, requirements, architecture, file_tree, risks, design-findings). NEVER writes code into your project. Hand the dossier to your implementer (Claude Code, Cursor, you, your team). Default = pair mode (scout + planner, ~30-60s). Add --rup (CLI) or rup:true (MCP) for the full 7-role dossier (Inception → Elaboration, ~1-3 min). Dossier lands under agents/<slug>/.
-
-[README](https://corifeus.com/architect) | [Github](https://github.com/patrikx3/architect)
-
----
-
-
-
-
 ### <!--@star|corifeus-app-web-pages--> 🕸️ Corifeus App Web Pages
 
 [README](https://corifeus.com/corifeus-app-web-pages) | [Github](https://github.com/patrikx3/corifeus-app-web-pages)
@@ -201,6 +192,15 @@ Architektúra frontend cortex AU7 fejlesztés, ami kölcsönözhető / bérelhet
 ### <!--@star|corifeus-utils--> ❤️ Corifeus Utils
 
 [README](https://corifeus.com/corifeus-utils) | [Github](https://github.com/patrikx3/corifeus-utils)
+
+---
+
+
+
+
+### <!--@star|p3x-architect--> 📐 P3X Architect — DESIGN-ONLY dossier generator. Two AIs (Claude + Codex) cross-check each other across the RUP phases to produce a written design dossier (conventions, vision, requirements, architecture, file_tree, risks, design-findings). NEVER writes code into your project. Hand the dossier to your implementer (Claude Code, Cursor, you, your team). Default = pair mode (scout + planner, ~30-60s). Add --rup (CLI) or rup:true (MCP) for the full 7-role dossier (Inception → Elaboration, ~1-3 min). Dossier lands under agents/<slug>/.
+
+[README](https://corifeus.com/architect) | [Github](https://github.com/patrikx3/architect)
 
 ---
 
